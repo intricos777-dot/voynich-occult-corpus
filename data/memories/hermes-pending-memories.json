@@ -1,0 +1,237 @@
+[
+  {
+    "id": "01209441",
+    "subsystem": "memory",
+    "action": "batch",
+    "summary": "background review consolidation (batch on user): - remove: User wants full autonomous self-healing AI system for Garuda Linux / linux-zen, full stack monitoring, auto-apply safe fixes only. Known envi",
+    "origin": "background_review",
+    "created_at": 1790024548.0322409,
+    "payload": {
+      "action": "batch",
+      "target": "user",
+      "operations": [
+        {
+          "action": "remove",
+          "old_text": "User wants full autonomous self-healing AI system for Garuda Linux / linux-zen, full stack monitoring, auto-apply safe fixes only. Known environment: Linux zen 7.2.6, KDE, Waydroid running, Steam, Crypto-bot, security audit repo, btrfs snapshots via snapper."
+        },
+        {
+          "action": "add",
+          "content": "User maintains law library at /home/sin/polsia-lawsuit/ (GitHub PRIVATE). US legal framework in US-BUSINESS-LAWS.md. Cross-referenced in agent rules."
+        }
+      ]
+    }
+  },
+  {
+    "id": "032d5f66",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace: User preference: push GitHub repos as PRIVATE only \u2014 never public. Verify repo visibility with `gh repo list <owner> --json name,visibil",
+    "origin": "background_review",
+    "created_at": 1790029775.0788786,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "User rule: push repos PRIVATE by default. EXCEPTION: video game builds/debugging repos can be PUBLIC. Verify with `gh repo list <owner> --json name,visibility`. Pre-push secret scan required. Never push keys.",
+      "old_text": "User preference: push GitHub repos as PRIVATE only \u2014 never public. Verify repo visibility with `gh repo list <owner> --json name,visibility` before pushing. Pre-push secret scan: `git show HEAD:<file>` or grep committed files for secrets. Never push keys even in \"sanitised\" scripts \u2014 rotate at provider dashboard if legacy keys were ever committed."
+    }
+  },
+  {
+    "id": "0ba94f7f",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace: Spawn tool: user requested multi-agent launcher -> User preference: for multi-step parallel work, default to spawning multiple agents si",
+    "origin": "background_review",
+    "created_at": 1789773320.580856,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "User preference: for multi-step parallel work, default to spawning multiple agents simultaneously (delegate_task fan-out) rather than sequential orchestration. Skip the bottleneck agent pattern \u2014 dispatch the fleet, monitor background results. Applied to: business wiring (6 agents \u2192 4 \u2192 1), PayPal, crypto-bot, Aerovora, SEN-ISP, OpenCode offline, Himalaya bot, Steam game testing.",
+      "old_text": "Spawn tool: user requested multi-agent launcher"
+    }
+  },
+  {
+    "id": "16e9d7f9",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace: Spawn tool: user requested multi-agent launcher \u2014 built ~/.hermes/tools/spawn.py (quick/tmux/hybrid/auto modes) + multi-agent-spawn skil",
+    "origin": "background_review",
+    "created_at": 1789773331.1178966,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "User runs ~67 Steam games on Garuda Linux (RTX 3050 + Intel ADL hybrid, GE-Proton 11-7 installed with 11-6 rollback). Steam library: /home/sin/.local/share/Steam (198G installed, 67 apps including Proton runtimes). Frequent games tested: Helldivers 2 (553850), DRAGON BALL Sparking ZERO (1790600), Palia (2707930), Valheim (892970), Undertale (391540). Autopatch engine tracks compat per game. Desktop at /home/sin/Desktop/ TODO-20260918-USER.txt tracks user action items.",
+      "old_text": "Spawn tool: user requested multi-agent launcher \u2014 built ~/.hermes/tools/spawn.py (quick/tmux/hybrid/auto modes) + multi-agent-spawn skill. Also plays Helldivers 2."
+    }
+  },
+  {
+    "id": "4db82427",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace entry matching 'User preference: push GitHub repos as PRIVATE only \u2014 never public. Verify repo visibility with `gh repo list <owner> --js",
+    "origin": "background_review",
+    "created_at": 1790024878.2279768,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "User preference: push GitHub repos as PRIVATE only \u2014 never public (standing rule). User CAN override per-repo (explicitly approved bch-facet-web as public). Verify repo visibility with `gh repo list <owner> --json name,visibility` before pushing. Pre-push secret scan: `git show HEAD:<file>` or grep committed files for secrets. Never push keys even in \"sanitised\" scripts \u2014 rotate at provider dashboard if legacy keys were ever committed.",
+      "old_text": "User preference: push GitHub repos as PRIVATE only \u2014 never public. Verify repo visibility with `gh repo list <owner> --json name,visibility` before pushing. Pre-push secret scan: `git show HEAD:<file>` or grep committed files for secrets. Never push keys even in \"sanitised\" scripts \u2014 rotate at provider dashboard if legacy keys were ever committed."
+    }
+  },
+  {
+    "id": "644bb9a5",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace entry matching 'User preference: push GitHub repos as PRIVATE only \u2014 never public. Verify repo visibility with `gh repo list <owner> --js",
+    "origin": "background_review",
+    "created_at": 1790024894.3167145,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "User preference: push GitHub repos as PRIVATE only \u2014 never public (standing rule). User CAN override per-repo (explicitly approved bch-faucet-web as public). Verify repo visibility with `gh repo list <owner> --json name,visibility` before pushing. Pre-push secret scan: `git show HEAD:<file>` or grep committed files for secrets. Never push keys even in \"sanitised\" scripts \u2014 rotate at provider dashboard if legacy keys were ever committed.",
+      "old_text": "User preference: push GitHub repos as PRIVATE only \u2014 never public. Verify repo visibility with `gh repo list <owner> --json name,visibility` before pushing. Pre-push secret scan: `git show HEAD:<file>` or grep committed files for secrets. Never push keys even in \"sanitised\" scripts \u2014 rotate at provider dashboard if legacy keys were ever committed."
+    }
+  },
+  {
+    "id": "6a441d79",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on user): - replace: User runs Garuda Linux (Arch-based) with linux-zen 7.2.2-zen1-1-zen. Prefers multi-agent coordination: delegates tasks to OpenCode, coordi",
+    "origin": "background_review",
+    "created_at": 1789851392.4019382,
+    "payload": {
+      "action": "replace",
+      "target": "user",
+      "content": "User runs Garuda Linux (linux-zen 7.2.6), prefers multi-agent coordination (Hermes/OpenCode), delegates tasks in parallel. Values concrete fixes, safety-first changes. Pushes GitHub repos as PRIVATE only \u2014 verify visibility, scan for secrets before push.",
+      "old_text": "User runs Garuda Linux (Arch-based) with linux-zen 7.2.2-zen1-1-zen. Prefers multi-agent coordination: delegates tasks to OpenCode, coordinates across local Hermes/OpenCode sessions via pts writeback. Wants public tracking of issues on GitHub (username: intricos777-dot). Values concrete fixes over descriptions, wants safety-first changes, and prefers consolidated public reports over private logs. Workflow: investigate with subagents, log to /home/sin/waydroid-reports/, push consolidated README + drafts to public repo."
+    }
+  },
+  {
+    "id": "7aeb23ed",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace: User rule: push repos to GitHub ONLY as private for security purposes. Public push requires explicit user approval. Applied to crypto-bo",
+    "origin": "background_review",
+    "created_at": 1790029700.4486592,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "User rule: push repos to GitHub as PRIVATE by default. EXCEPTION: video game builds/debugging repos can be PUBLIC. Everything else (security, crypto, finance, tools, infra, web, science) must be PRIVATE. Verify visibility with `gh repo list <owner> --json name,visibility`. Pre-push secret scan required. Never push keys.",
+      "old_text": "User rule: push repos to GitHub ONLY as private for security purposes. Public push requires explicit user approval. Applied to crypto-bot (intricos777-dot/crypto-bot is PRIVATE), polsia-lawsuit, and any future repos."
+    }
+  },
+  {
+    "id": "7e610e70",
+    "subsystem": "memory",
+    "action": "batch",
+    "summary": "background review consolidation (batch on memory): - remove: TODO 9/18: SEN-ISP backend hardened to 127.0.0.1:8080. KDE Connect firewall-contained (iptables DROP 1716). Fleet services: 4126 coordinati",
+    "origin": "background_review",
+    "created_at": 1789842578.739051,
+    "payload": {
+      "action": "batch",
+      "target": "memory",
+      "operations": [
+        {
+          "action": "remove",
+          "old_text": "TODO 9/18: SEN-ISP backend hardened to 127.0.0.1:8080. KDE Connect firewall-contained (iptables DROP 1716). Fleet services: 4126 coordination (JWT auth), 4141 Ollama, 4142 zen-ai-coord, 4123 crypto-bot. No intrusion found. Smoke tests: 25/27 pass, 6 blocked (4 GameGuard auth, 2 ptrace). Wine tool built: ~/.local/bin/steam-wine-report + steam-wine-tool. Ollama offline works (Hermes+OpenCode). Pending: Stripe key regen, Kraken rotation, GPG key for Himalaya bot, Coinbase passphrase, GitHub Pages for Aerovora.",
+          "target": "memory"
+        },
+        {
+          "action": "replace",
+          "content": "Fleet: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Security audit: /home/sin/security-audit-2026/. Waydroid 192.168.240.112 restored 9/17. crypto-bot e969189 unpushed (keys purged 373a805). Autopatch engine /home/sin/autopatch/ \u2014 30min timer active. Recurring unauthenticated services: Ollama 4141, SRBMiner 21550, SEN-ISP Billing 8080, ttyd 8337 (hardcoded creds), AI coord 4142 (token 'changeme'). World-readable crypto creds: coinbase-wallets.json, faucet-credentials/. Firewall blocks: 192.168.1.153, MAC 80:38:FB:57:90:DB.",
+          "new_text": "Fleet: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Security audit: /home/sin/security-audit-2026/. Waydroid 192.168.240.112 restored 9/17. crypto-bot e969189 unpushed (keys purged 373a805). Autopatch engine /home/sin/autopatch/ \u2014 30min timer active. Recurring unauthenticated services: Ollama 4141, SRBMiner 21550, SEN-ISP Billing 8080, ttyd 8337 (hardcoded creds), AI coord 4142 (token 'changeme'). World-readable crypto creds: coinbase-wallets.json, faucet-credentials/. Firewall blocks: 192.168.1.153, MAC 80:38:FB:57:90:DB.",
+          "old_text": "Fleet: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Security audit: /home/sin/security-audit-2026/. Waydroid 192.168.240.112 restored 9/17. crypto-bot e969189 unpushed (keys purged 373a805). Autopatch engine /home/sin/autopatch/ \u2014 30min timer active.",
+          "target": "memory"
+        },
+        {
+          "action": "add",
+          "content": "User conducts identification-only security assessments for external orgs (e.g., Upper Skagit Library). Workflow: passive recon \u2192 consolidated plain-text report on Desktop \u2192 email to client \u2192 purge files after confirmation. Never exploit, never access data, stop at vulnerability identification.",
+          "target": "memory"
+        }
+      ]
+    }
+  },
+  {
+    "id": "85fe92bd",
+    "subsystem": "memory",
+    "action": "remove",
+    "summary": "background review consolidation (remove on user): - remove: User runs Garuda Linux (Arch-based) with linux-zen 7.2.2-zen1-1-zen. Prefers multi-agent coordination: delegates tasks to OpenCode, coordina",
+    "origin": "background_review",
+    "created_at": 1789851405.5897698,
+    "payload": {
+      "action": "remove",
+      "target": "user",
+      "content": null,
+      "old_text": "User runs Garuda Linux (Arch-based) with linux-zen 7.2.2-zen1-1-zen. Prefers multi-agent coordination: delegates tasks to OpenCode, coordinates across local Hermes/OpenCode sessions via pts writeback. Wants public tracking of issues on GitHub (username: intricos777-dot). Values concrete fixes over descriptions, wants safety-first changes, and prefers consolidated public reports over private logs. Workflow: investigate with subagents, log to /home/sin/waydroid-reports/, push consolidated README + drafts to public repo."
+    }
+  },
+  {
+    "id": "9ac125b1",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on user): - replace: User runs Garuda Linux (zen kernel), multi-agent fleet (Hermes/OpenCode via pts). GitHub: intricos777-dot. Values safety-first, concrete f",
+    "origin": "background_review",
+    "created_at": 1790024526.7374876,
+    "payload": {
+      "action": "replace",
+      "target": "user",
+      "content": "User runs Garuda Linux (zen), multi-agent fleet (Hermes/OpenCode). Wants full self-healing AI, safety-first. GitHub: intricos777-dot. Business email: intricos777@gmail.com.",
+      "old_text": "User runs Garuda Linux (zen kernel), multi-agent fleet (Hermes/OpenCode via pts). GitHub: intricos777-dot. Values safety-first, concrete fixes, public issue tracking. Workflows: /home/sin/waydroid-reports/"
+    }
+  },
+  {
+    "id": "ad00a1fd",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace: Master TODO 9/18: P0 Hermes local Ollama 4141 FIXED (reasoning_overrides). NEXT: Hermes+OpenCode offline survival kit \u2014 private local re",
+    "origin": "background_review",
+    "created_at": 1789771270.3701146,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "Master TODO: P0 Ollama 4141 FIXED. NEXT: offline survival kit. P2: COINBASE_WALLET_ID/sweep, push crypto-bot, PayPal deferred, tailscale up, ISO rebuild, gameguard dup disable, Steam 198G offload.",
+      "old_text": "Master TODO 9/18: P0 Hermes local Ollama 4141 FIXED (reasoning_overrides). NEXT: Hermes+OpenCode offline survival kit \u2014 private local repo with agent skills/templates for airgap reasoning. P2 user-only: COINBASE_WALLET_ID for /sweep, push crypto-bot, PayPal (deferred), tailscale up, ISO rebuild, gameguard dup disable, Steam 198G offload. All P1 closed by fleet."
+    }
+  },
+  {
+    "id": "da5006e5",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace: Master TODO 9/18: P0 Hermes local Ollama 4141 FIXED (reasoning_overrides). NEXT: Hermes+OpenCode offline survival kit \u2014 private local re",
+    "origin": "background_review",
+    "created_at": 1789771259.4834137,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "Master TODO 9/18: P0 Hermes local Ollama 4141 FIXED. NEXT: offline survival kit (private repo, airgap). P2: COINBASE_WALLET_ID /sweep, push crypto-bot, PayPal deferred, tailscale up, ISO rebuild, gameguard dup disable, Steam 198G offload. P1 closed.",
+      "old_text": "Master TODO 9/18: P0 Hermes local Ollama 4141 FIXED (reasoning_overrides). NEXT: Hermes+OpenCode offline survival kit \u2014 private local repo with agent skills/templates for airgap reasoning. P2 user-only: COINBASE_WALLET_ID for /sweep, push crypto-bot, PayPal (deferred), tailscale up, ISO rebuild, gameguard dup disable, Steam 198G offload. All P1 closed by fleet."
+    }
+  },
+  {
+    "id": "dfa7c017",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on user): - replace: User runs Garuda Linux (Arch-based) with linux-zen 7.2.2-zen1-1-zen. Prefers multi-agent coordination: delegates tasks to OpenCode, coordi",
+    "origin": "background_review",
+    "created_at": 1789851419.907396,
+    "payload": {
+      "action": "replace",
+      "target": "user",
+      "content": "User: Garuda Linux, parallel execution, private-only GitHub pushes, secrets scanning. Business: vertical AI agents ($500-$2k/mo), dental/real estate/legal verticals, LinkedIn lead gen, dental AI receptionist, lead scoring system. Email: intricos777@gmail.com.",
+      "old_text": "User runs Garuda Linux (Arch-based) with linux-zen 7.2.2-zen1-1-zen. Prefers multi-agent coordination: delegates tasks to OpenCode, coordinates across local Hermes/OpenCode sessions via pts writeback. Wants public tracking of issues on GitHub (username: intricos777-dot). Values concrete fixes over descriptions, wants safety-first changes, and prefers consolidated public reports over private logs. Workflow: investigate with subagents, log to /home/sin/waydroid-reports/, push consolidated README + drafts to public repo."
+    }
+  },
+  {
+    "id": "fadbaec9",
+    "subsystem": "memory",
+    "action": "replace",
+    "summary": "background review consolidation (replace on memory): - replace: Fleet: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Security audit: /home/sin/security-audit-2026/. W",
+    "origin": "background_review",
+    "created_at": 1789775983.2002401,
+    "payload": {
+      "action": "replace",
+      "target": "memory",
+      "content": "Fleet env: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Autopatch 30min timer active. User prefers fleet dispatch (delegate_task background, no polling) + adaptive toolsets per game, not blanket settings.",
+      "old_text": "Fleet: snapshot 107, tor/dnscrypt, Zen Healer v1 (5min). Ollama 4141 = Hermes gateway. Security audit: /home/sin/security-audit-2026/. Waydroid 192.168.240.112 restored 9/17. crypto-bot e969189 unpushed (keys purged 373a805). Autopatch engine /home/sin/autopatch/ \u2014 30min timer active."
+    }
+  }
+]
