@@ -1,0 +1,369 @@
+{
+  "phonemes": {
+    "o": "/o/",
+    "e": "/e/",
+    "y": "/i/",
+    "a": "/a/",
+    "i": "/\u026a/",
+    "f": "/\u0294/",
+    "k": "/k/",
+    "t": "/t/",
+    "p": "/p/",
+    "s": "/s/",
+    "ch": "/t\u0283/",
+    "sh": "/\u0283/",
+    "ct": "/xt/",
+    "ck": "/k\u02d0/",
+    "ph": "/p\u02b0/",
+    "th": "/t\u02b0/",
+    "kh": "/k\u02b0/",
+    "qh": "/q/",
+    "cph": "/p\u0283/",
+    "cfh": "/f\u0283/",
+    "cth": "/t\u0283/",
+    "l": "/l/",
+    "r": "/r/",
+    "m": "/m/",
+    "n": "/n/",
+    "d": "/d/",
+    "g": "/g/"
+  },
+  "prefixes": {
+    "ch": {
+      "meaning": "AGENT/animate subject",
+      "cross_ref": "Bantu class 1 (mu-), PIE *h\u2081es-"
+    },
+    "sh": {
+      "meaning": "LOCATIVE/positional",
+      "cross_ref": "PIE *\u1e31e-, Bantu class 7 (ki-)"
+    },
+    "ot": {
+      "meaning": "INSTRUMENT/tool",
+      "cross_ref": "PIE *h\u2083et-, Bantu class 13 (to-)"
+    },
+    "ok": {
+      "meaning": "DIRECTIONAL/toward",
+      "cross_ref": "Turkic -DA, Finnish -ssa"
+    },
+    "qo": {
+      "meaning": "INTERROGATIVE/question",
+      "cross_ref": "PIE *k\u02b7-, Turkic mi/m\u0131"
+    },
+    "da": {
+      "meaning": "EXISTENTIAL/being",
+      "cross_ref": "Semitic *d-h-b, Bantu class 16 (pa-)"
+    },
+    "ol": {
+      "meaning": "PLURAL/collective",
+      "cross_ref": "PIE *-\u014ds, Turkic -lar"
+    },
+    "op": {
+      "meaning": "NEGATION/not",
+      "cross_ref": "PIE *ne, Bantu negative prefix"
+    },
+    "yk": {
+      "meaning": "PAST tense",
+      "cross_ref": "Turkic -DI, Finnish -i-"
+    },
+    "che": {
+      "meaning": "ACTION/verb",
+      "cross_ref": "PIE *g\u02b7\u02b0en-, Bantu -a"
+    },
+    "cho": {
+      "meaning": "BODY PART",
+      "cross_ref": "Bantu class 7 body, PIE *\u1e31er-"
+    },
+    "qok": {
+      "meaning": "FUTURE/irrealis",
+      "cross_ref": "Turkic -AcAk, Bantu -ka-"
+    },
+    "she": {
+      "meaning": "PLANT/natural",
+      "cross_ref": "PIE *d\u02b0ewh\u2082-, Bantu class 3 (mu-)"
+    },
+    "qot": {
+      "meaning": "CELESTIAL/sky",
+      "cross_ref": "Semitic \u0161amayim, Bantu class 17 (ku-)"
+    },
+    "oke": {
+      "meaning": "WATER/liquid",
+      "cross_ref": "PIE *h\u2082ek\u02b7eh\u2082, Bantu class 6 (ma-)"
+    },
+    "ote": {
+      "meaning": "FIRE/heat",
+      "cross_ref": "PIE *h\u2081n\u0325g\u02b7nis, Bantu class 11 (lu-)"
+    }
+  },
+  "suffixes": {
+    "in": {
+      "meaning": "DATIVE/to-for",
+      "cross_ref": "PIE *-en, Bantu applicative -il-"
+    },
+    "dy": {
+      "meaning": "LOCATIVE/at-in",
+      "cross_ref": "PIE *-d\u02b0i, Bantu locative -ini"
+    },
+    "iin": {
+      "meaning": "GENITIVE/of",
+      "cross_ref": "PIE *-osyo, Bantu associative -an-"
+    },
+    "ey": {
+      "meaning": "ACCUSATIVE/object",
+      "cross_ref": "PIE *-m, Bantu object concord"
+    },
+    "ar": {
+      "meaning": "ABLATIVE/from",
+      "cross_ref": "PIE *-\u014dd, Bantu -ko"
+    },
+    "hy": {
+      "meaning": "COMITATIVE/with",
+      "cross_ref": "PIE *-b\u02b0i, Bantu comitative -na"
+    },
+    "ol": {
+      "meaning": "INSTRUMENTAL/by-with",
+      "cross_ref": "PIE *-h\u2081, Bantu instrumental -e"
+    },
+    "or": {
+      "meaning": "ERGATIVE/agent",
+      "cross_ref": "Basque -k, Caucasian ergative"
+    },
+    "al": {
+      "meaning": "ADJECTIVIZER",
+      "cross_ref": "PIE *-likos, Bantu -fu"
+    },
+    "ain": {
+      "meaning": "RESULTATIVE",
+      "cross_ref": "PIE *-tus, Bantu perfective -ile"
+    },
+    "eey": {
+      "meaning": "INTENSIVE/much",
+      "cross_ref": "PIE *-yos, Bantu augmentative -kulu"
+    },
+    "chy": {
+      "meaning": "DIMINUTIVE/small",
+      "cross_ref": "PIE *-kos, Bantu diminutive -ana"
+    },
+    "hey": {
+      "meaning": "AUGMENTATIVE/big",
+      "cross_ref": "PIE *-\u014ds, Bantu augmentative -kulu"
+    },
+    "am": {
+      "meaning": "IMPERATIVE/command",
+      "cross_ref": "PIE *-d\u02b0i, Bantu imperative"
+    },
+    "ody": {
+      "meaning": "DURATIVE/ongoing",
+      "cross_ref": "PIE *-onts, Bantu progressive -ka-"
+    }
+  },
+  "roots": {
+    "daiin": {
+      "root": "da-",
+      "meaning": "LIFE/breathing being",
+      "section": "all",
+      "cross_ref": "*d\u02b0eh\u2081- (PIE: put, do), Bantu -zima (alive)"
+    },
+    "ol": {
+      "root": "ol-",
+      "meaning": "MANY/plurality",
+      "section": "all",
+      "cross_ref": "*polh\u2081u- (PIE: many), Turkic \u00e7ok"
+    },
+    "aiin": {
+      "root": "ai-",
+      "meaning": "STAR/celestial point",
+      "section": "astro",
+      "cross_ref": "*h\u2082ster- (PIE: star), Sumerian AN"
+    },
+    "chor": {
+      "root": "chor-",
+      "meaning": "BLOOD/red",
+      "section": "pharma",
+      "cross_ref": "*k\u02b7er- (PIE: blood), Bantu -sag (blood)"
+    },
+    "shey": {
+      "root": "shey-",
+      "meaning": "PLANT/herb",
+      "section": "herbal",
+      "cross_ref": "*d\u02b0ewh\u2082- (PIE: smoke, plant), Bantu -sato (snake plant)"
+    },
+    "chol": {
+      "root": "chol-",
+      "meaning": "FIRE/burning",
+      "section": "pharma",
+      "cross_ref": "*g\u02b7\u02b0er- (PIE: hot), Bantu -oto"
+    },
+    "oteey": {
+      "root": "otee-",
+      "meaning": "FLOW/movement",
+      "section": "balneo",
+      "cross_ref": "*h\u2081et- (PIE: go), Bantu -enda"
+    },
+    "okeey": {
+      "root": "okee-",
+      "meaning": "WATER/liquid",
+      "section": "pharma",
+      "cross_ref": "*h\u2082ek\u02b7eh\u2082 (PIE: water), Bantu -ziwa (lake)"
+    },
+    "shol": {
+      "root": "shol-",
+      "meaning": "HEAD/captain",
+      "section": "herbal",
+      "cross_ref": "*\u1e31ap-ut (PIE: head), Bantu -twe"
+    },
+    "chdy": {
+      "root": "chd-",
+      "meaning": "ROOT/below",
+      "section": "herbal",
+      "cross_ref": "*wr\u0325d\u02b0os (PIE: root), Bantu -ti (tree)"
+    },
+    "shod": {
+      "root": "shod-",
+      "meaning": "EARTH/ground",
+      "section": "herbal",
+      "cross_ref": "*dhg\u02b0om- (PIE: earth), Bantu -ntu (person)"
+    },
+    "chct": {
+      "root": "chc-",
+      "meaning": "TWISTED/winding",
+      "section": "herbal",
+      "cross_ref": "*k\u02b7ek\u02b7- (PIE: twist), Bantu -kota (bend)"
+    },
+    "chcf": {
+      "root": "chcf-",
+      "meaning": "HIDDEN/secret",
+      "section": "recipes",
+      "cross_ref": "*\u1e31eb\u02b0- (PIE: hide), Bantu -fisa (hide)"
+    },
+    "cph": {
+      "root": "cph-",
+      "meaning": "BREATHE/inhale",
+      "section": "balneo",
+      "cross_ref": "*k\u02b7ep- (PIE: breathe), Bantu -pema (breathe)"
+    },
+    "qot": {
+      "root": "qot-",
+      "meaning": "SKY/heaven",
+      "section": "astro",
+      "cross_ref": "*k\u02b7el- (PIE: sky), Sumerian AN"
+    },
+    "yke": {
+      "root": "yk-",
+      "meaning": "PAST/formerly",
+      "section": "recipes",
+      "cross_ref": "*yek- (PIE: say), Bantu -ka (past)"
+    },
+    "soiin": {
+      "root": "soi-",
+      "meaning": "SLEEP/rest",
+      "section": "recipes",
+      "cross_ref": "*swep- (PIE: sleep), Bantu -lala"
+    },
+    "chot": {
+      "root": "chot-",
+      "meaning": "FINISH/end",
+      "section": "recipes",
+      "cross_ref": "*k\u02b7et- (PIE: finish), Bantu -maliza"
+    }
+  },
+  "grammar": {
+    "word_order": "SOV (Subject-Object-Verb)",
+    "cross_order": [
+      "Turkic",
+      "Japanese",
+      "Basque",
+      "Georgian",
+      "Bantu (partial)"
+    ],
+    "morphological_type": "Agglutinative with fusional elements",
+    "cross_morph": [
+      "Turkic (pure agglutinative)",
+      "Bantu (agglutinative noun class)",
+      "Georgian (agglutinative verb)"
+    ],
+    "noun_classes": {
+      "class_1": {
+        "prefix": "ch-",
+        "semantic": "Animates/humans",
+        "cross_ref": "Bantu mu-/mw-"
+      },
+      "class_2": {
+        "prefix": "sh-",
+        "semantic": "Plants/natural",
+        "cross_ref": "Bantu mu-/mi-"
+      },
+      "class_3": {
+        "prefix": "ot-",
+        "semantic": "Tools/artifacts",
+        "cross_ref": "Bantu n-/ma-"
+      },
+      "class_4": {
+        "prefix": "qo-",
+        "semantic": "Abstract/mental",
+        "cross_ref": "Bantu bu-"
+      },
+      "class_5": {
+        "prefix": "da-",
+        "semantic": "Existential/being",
+        "cross_ref": "Bantu pa-"
+      }
+    },
+    "verb_morphology": {
+      "root": "core meaning",
+      "suffix_order": [
+        "root",
+        "voice",
+        "tense",
+        "mood",
+        "person/number"
+      ],
+      "voice": {
+        "active": "",
+        "passive": "-ar",
+        "causative": "-che"
+      },
+      "tense": {
+        "past": "-yk",
+        "present": "\u2205",
+        "future": "-qok"
+      },
+      "mood": {
+        "indicative": "",
+        "imperative": "-am",
+        "optative": "-eey"
+      }
+    }
+  },
+  "templates": {
+    "CV": 0.15,
+    "CVC": 0.18,
+    "CVCC": 0.12,
+    "CCVC": 0.1,
+    "CVCV": 0.14,
+    "CVCVC": 0.08,
+    "CCVCC": 0.05,
+    "CVCVCC": 0.06
+  },
+  "metadata": {
+    "engine": "Voynich Conlang Engine v1.0",
+    "cross_references": [
+      "PIE",
+      "Bantu",
+      "Turkic",
+      "Finnish",
+      "Semitic",
+      "Georgian",
+      "Basque"
+    ],
+    "manuscript_sections": [
+      "herbal",
+      "astronomical",
+      "balneological",
+      "pharmaceutical",
+      "recipes",
+      "text"
+    ],
+    "confidence": "LOW \u2014 constructed hypothesis, not verified translation",
+    "method": "statistical morphology + typological cross-reference"
+  }
+}
