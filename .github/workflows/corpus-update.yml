@@ -1,0 +1,25 @@
+name: Corpus Update
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-corpus:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch corpus texts
+        run: |
+          python3 analysis/fetch-corpus.py
+      - name: Run analysis
+        run: |
+          python3 analysis/freq-analysis.py
+          python3 analysis/cross-reference.py
+      - name: Commit updates
+        run: |
+          git config user.name "corpus-bot"
+          git config user.email "bot@voynich-occult-corpus"
+          git add -A
+          git diff --quiet --cached || git commit -m "daily corpus update: $(date -u +%Y-%m-%d)"
+          git push
