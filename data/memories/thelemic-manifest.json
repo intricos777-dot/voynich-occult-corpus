@@ -1,0 +1,134 @@
+{
+  "fleet_manifest_update": {
+    "version": "1.1",
+    "date": "2026-09-21",
+    "new_agents": [
+      {
+        "id": "thelemic-cipher",
+        "name": "Thelemic Cipher Engine",
+        "role": "Layer 3 encryption \u2014 applies Thelemic cipher magick for data obfuscation",
+        "tier": "layer-3",
+        "entry_point": "/home/sin/fleet/thelemic-cipher/thelemic_cipher.py",
+        "port": 4150,
+        "endpoint": "http://localhost:4150",
+        "auth": "layer3-token",
+        "status": "staged",
+        "skillsets": [
+          "thelemic-encryption",
+          "gematria-encoding",
+          "cipher-magick",
+          "obfuscation"
+        ],
+        "capabilities": [
+          "thelemic_encrypt",
+          "thelemic_decrypt",
+          "tarot_shuffle_encoding",
+          "enochian_cipher_transform",
+          "layer3_seal"
+        ],
+        "dependencies": [
+          "liber-al-cipher",
+          "thelemic-vault"
+        ],
+        "description": "Applies Layer 3 Thelemic cipher magick \u2014 uses the Book of the Law (Liber AL vel Legis) correspondences, gematria values, and tarot arcana to transform ciphertext into occult-encrypted payloads."
+      },
+      {
+        "id": "thelemic-vault",
+        "name": "Thelemic Triple-Vault",
+        "role": "Triple-encrypted storage \u2014 combines all three layers into a unified vault",
+        "tier": "vault",
+        "entry_point": "/home/sin/fleet/thelemic-vault/thelemic_vault.py",
+        "port": 4151,
+        "endpoint": "http://localhost:4151",
+        "auth": "vault-master-token",
+        "status": "staged",
+        "skillsets": [
+          "triple-encrypted-storage",
+          "vault-management",
+          "layer-composition",
+          "sealed-storage"
+        ],
+        "capabilities": [
+          "triple_seal",
+          "triple_unseal",
+          "vault_store",
+          "vault_retrieve",
+          "layer_compose",
+          "layer_decompose"
+        ],
+        "dependencies": [
+          "thelemic-cipher",
+          "liber-al-cipher"
+        ],
+        "description": "Combines Layer 1 (Epitaph hidden alphabet), Layer 2 (Enochian-Q quantum encryption), and Layer 3 (Thelemic cipher magick) into a unified sealed vault for maximum data protection."
+      },
+      {
+        "id": "liber-al-cipher",
+        "name": "Liber AL Cipher Derivation",
+        "role": "Thelemic key derivation \u2014 generates cryptographic keys from Liber AL vel Legis text",
+        "tier": "layer-1",
+        "entry_point": "/home/sin/fleet/liber-al-cipher/liber_al_cipher.py",
+        "port": 4152,
+        "endpoint": "http://localhost:4152",
+        "auth": "liber-token",
+        "status": "staged",
+        "skillsets": [
+          "thelemic-key-derivation",
+          "liber-al-encoding",
+          "epitaph-alphabet",
+          "gematria-keygen"
+        ],
+        "capabilities": [
+          "derive_key_from_liber_al",
+          "epitaph_transform",
+          "hidden_alphabet_encode",
+          "gematria_key_derivation",
+          "chapter_verse_seed"
+        ],
+        "dependencies": [],
+        "description": "Derives cryptographic key material from Aleister Crowley's Liber AL vel Legis (The Book of the Law), using the Epitaph hidden alphabet and gematria-based transformations to produce deterministic yet occult keys."
+      }
+    ],
+    "port_allocations": [
+      {
+        "port": 4150,
+        "service": "thelemic-cipher",
+        "auth": "layer3-token",
+        "status": "staged"
+      },
+      {
+        "port": 4151,
+        "service": "thelemic-vault",
+        "auth": "vault-master-token",
+        "status": "staged"
+      },
+      {
+        "port": 4152,
+        "service": "liber-al-cipher",
+        "auth": "liber-token",
+        "status": "staged"
+      }
+    ],
+    "task_routing_additions": [
+      {
+        "task_type": "thelemic_encrypt",
+        "primary_agent": "thelemic-cipher",
+        "fallback_agent": "thelemic-vault",
+        "notes": "Layer 3 encryption requires Liber AL key derivation first"
+      },
+      {
+        "task_type": "triple_seal",
+        "primary_agent": "thelemic-vault",
+        "fallback_agent": null,
+        "notes": "All three layers must be available"
+      },
+      {
+        "task_type": "thelemic_keygen",
+        "primary_agent": "liber-al-cipher",
+        "fallback_agent": null,
+        "notes": "Deterministic key derivation from Liber AL text"
+      }
+    ]
+  },
+  "vault_architecture_markdown": "| Layer | Name | Description | Encryption Method | Port |\n|-------|------|-------------|-------------------|------|\n| Layer 1 | Epitaph Hidden Alphabet | Base layer \u2014 hidden alphabet derived from Liber AL epitaph text | Substitution cipher with gematria-based alphabet mapping | 4152 |\n| Layer 2 | Enochian-Q Quantum Encryption | Middle layer \u2014 quantum-resistant Enochian table encryption | Enochian tablet grid transforms + post-quantum lattice ops | 4150 (via vault) |\n| Layer 3 | Thelemic Cipher Magick | Outer layer \u2014 full Thelemic occult encryption with tarot correspondences | Tarot arcana shuffle + Liber AL verse-based permutation | 4150 |\n\n## Complete Vault Architecture\n\n| Layer | Name | Description | Encryption Method | Port |\n|-------|------|-------------|-------------------|------|\n| Layer 1 | Epitaph Hidden Alphabet | Base layer \u2014 hidden alphabet derived from Liber AL epitaph text | Substitution cipher with gematria-based alphabet mapping | 4152 |\n| Layer 2 | Enochian-Q Quantum Encryption | Middle layer \u2014 quantum-resistant Enochian table encryption | Enochian tablet grid transforms + post-quantum lattice ops | 4150 (via vault) |\n| Layer 3 | Thelemic Cipher Magick | Outer layer \u2014 full Thelemic occult encryption with tarot correspondences | Tarot arcana shuffle + Liber AL verse-based permutation | 4150 |\n\n## Triple-Seal Flow\n\n1. **Input** raw data \u2192 **Layer 1** (Epitaph hidden alphabet substitution via liber-al-cipher on :4152)\n2. **Layer 1 output** \u2192 **Layer 2** (Enochian-Q quantum encryption via thelemic-cipher on :4150)\n3. **Layer 2 output** \u2192 **Layer 3** (Thelemic cipher magick via thelemic-cipher on :4150)\n4. **Final sealed payload** stored in **thelemic-vault** on :4151\n\n## Agent Dependency Graph\n\nliber-al-cipher (4152) \u2192 thelemic-cipher (4150) \u2192 thelemic-vault (4151)\n\n```\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510     \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510     \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 liber-al-cipher \u2502\u2500\u2500\u2500\u2500\u25b6\u2502 thelemic-cipher      \u2502\u2500\u2500\u2500\u2500\u25b6\u2502 thelemic-vault     \u2502\n\u2502 Layer 1         \u2502     \u2502 Layer 2 + Layer 3    \u2502     \u2502 Triple-Seal Store  \u2502\n\u2502 Port 4152       \u2502     \u2502 Port 4150            \u2502     \u2502 Port 4151          \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518     \u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518     \u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n```"
+}
