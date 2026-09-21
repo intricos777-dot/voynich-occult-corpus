@@ -1,0 +1,600 @@
+{
+  "title": "Liber AL vel Legis \u2014 Thelemic Cipher Elements for Cryptographic Use",
+  "subtitle": "The Book of the Law (Liber CCXX) \u2014 Structured Cipher Reference",
+  "structure": {
+    "description": "Liber AL vel Legis consists of three chapters attributed to three deities of the Thelemic cosmology",
+    "total_verses": 220,
+    "roman_numeral": "CCXX",
+    "as_delivered": {
+      "messenger": "Aiwass",
+      "delivered_by": "XCIII = 418",
+      "delivered_to": "DCLXVI = 666"
+    },
+    "chapters": [
+      {
+        "number": 1,
+        "deity": "Nuit",
+        "deity_epithet": "Queen of Space / The Infinite Stars",
+        "verse_count": 66,
+        "verse_range": "1-66",
+        "summary": "Had! The manifestation of Nuit. The chapter of Infinite Space, the circumference, the stars.",
+        "closing_verse": "66. The Manifestation of Nuit is at an end."
+      },
+      {
+        "number": 2,
+        "deity": "Hadit",
+        "deity_epithet": "The Winged Serpent of Light / The Point",
+        "verse_count": 79,
+        "verse_range": "1-79",
+        "summary": "Nu! the hiding of Hadit. The chapter of the point, the center, the individual consciousness.",
+        "closing_verse": "79. The end of the hiding of Hadit; and blessing & worship to the prophet of the lovely Star!"
+      },
+      {
+        "number": 3,
+        "deity": "Ra-Hoor-Khuit",
+        "deity_epithet": "Horus / The Crowned and Conquering Child",
+        "verse_count": 75,
+        "verse_range": "1-75",
+        "summary": "Abrahadabra; the reward of Ra Hoor Khut. The chapter of action, war, and the warrior.",
+        "closing_verse": "75. The ending of the words is the Word Abrahadabra."
+      }
+    ]
+  },
+  "isopsephia_and_gematria": {
+    "description": "Numerical values of key Thelemic terms using Greek isopsephia, Hebrew gematria, and English Qaballa",
+    "greek_isopsephy": {
+      "note": "Isopsephy assigns numerical values to Greek letters: \u0391=1, \u0392=2, \u0393=3, \u0394=4, \u0395=5, \u03da=6, \u0396=7, \u0397=8, \u0398=9, \u0399=10, \u039a=20, \u039b=30, \u039c=40, \u039d=50, \u039e=60, \u039f=70, \u03a0=80, \u03de=90, \u03a1=100, \u03a3=200, \u03a4=300, \u03a5=400, \u03a6=500, \u03a7=600, \u03a8=700, \u03a9=800",
+      "thelema": {
+        "word": "\u0398\u03b5\u03bb\u03b7\u03bc\u03b1",
+        "meaning": "Will",
+        "value": 93,
+        "breakdown": {
+          "\u0398 (Theta)": 9,
+          "\u03b5 (Epsilon)": 5,
+          "\u03bb (Lambda)": 30,
+          "\u03b7 (Eta)": 8,
+          "\u03bc (Mu)": 40,
+          "\u03b1 (Alpha)": 1
+        },
+        "calculation": "9 + 5 + 30 + 8 + 40 + 1 = 93"
+      },
+      "agape": {
+        "word": "\u0391\u03b3\u03b1\u03c0\u03b7",
+        "meaning": "Love",
+        "value": 93,
+        "breakdown": {
+          "\u0391 (Alpha)": 1,
+          "\u03b3 (Gamma)": 3,
+          "\u03b1 (Alpha)": 1,
+          "\u03c0 (Pi)": 80,
+          "\u03b7 (Eta)": 8
+        },
+        "calculation": "1 + 3 + 1 + 80 + 8 = 93"
+      },
+      "aiwass": {
+        "word": "\u0391\u03b9\u03dd\u03b1\u03c3\u03c3",
+        "meaning": "The Holy Guardian Angel / Liberator",
+        "value": 418,
+        "breakdown": {
+          "\u0391 (Alpha)": 1,
+          "\u03b9 (Iota)": 10,
+          "\u03dd (Digamma)": 6,
+          "\u03b1 (Alpha)": 1,
+          "\u03c3 (Sigma)": 200
+        },
+        "calculation": "1 + 10 + 6 + 1 + 200 + 200 = 418",
+        "note": "Digamma (\u03dd) is the archaic letter value 6, used in Greek isopsephy"
+      }
+    },
+    "hebrew_gematria": {
+      "note": "Standard Hebrew gematria: \u05d0=1, \u05d1=2, \u05d2=3, \u05d3=4, \u05d4=5, \u05d5=6, \u05d6=7, \u05d7=8, \u05d8=9, \u05d9=10, \u05db=20, \u05dc=30, \u05de=40, \u05e0=50, \u05e1=60, \u05e2=70, \u05e4=80, \u05e6=90, \u05e7=100, \u05e8=200, \u05e9=300, \u05ea=400",
+      "abrahadabra_hebrew": {
+        "word": "\u05d0\u05d1\u05e8\u05d4\u05d3\u05d1\u05e8\u05d4",
+        "meaning": "The word of the Aeon",
+        "value": 419,
+        "breakdown": {
+          "\u05d0 (Aleph)": 1,
+          "\u05d1 (Bet)": 2,
+          "\u05e8 (Resh)": 200,
+          "\u05d4 (He)": 5,
+          "\u05d3 (Dalet)": 4
+        },
+        "calculation": "1 + 2 + 200 + 5 + 4 + 2 + 200 + 5 = 419",
+        "note": "Crowley used 418, connecting to Aiwass; 419 is Teth in full spelling"
+      },
+      "teth": {
+        "letter": "\u05d8",
+        "full_spelling": "\u05ea\u05ea",
+        "meaning": "Serpent",
+        "value": 419,
+        "note": "418 + 1 = 419 (the next number after Aiwass)"
+      }
+    },
+    "english_qaballa": {
+      "abrahadabra_eq": {
+        "value": 79,
+        "breakdown": "A=1 + B=20 + R=12 + A=1 + H=4 + A=1 + D=6 + A=1 + B=20 + R=12 + A=1"
+      },
+      "thelema_eq": {
+        "value": 102,
+        "breakdown": "T=24 + H=4 + E=25 + L=2 + E=25 + M=21 + A=1"
+      },
+      "english_alphabet_eq": {
+        "value": 187,
+        "breakdown": "E=25 + N=14 + G=11 + L=2 + I=23 + S=5 + H=4 + A=1 + L=2 + P=26 + H=4 + A=1 + B=20 + E=25 + T=24",
+        "proof": "17 \u00d7 11 = 187 (AL 2:76 line 1 has 17 elements, line 2 has 11)"
+      }
+    }
+  },
+  "thelemic_alphabet_tables": {
+    "english_qaballa_eq": {
+      "also_known_as": [
+        "ALW Cipher",
+        "New Aeon English Qabalah (NAEQ)"
+      ],
+      "discovered_by": "James Lees (November 26, 1976); independently by Carol Smith (1974)",
+      "basis": "AL 2:55 \u2014 'Thou shalt obtain the order & value of the English Alphabet; thou shalt find new symbols to attribute them unto.'",
+      "method": "Take every 11th letter of the alphabet starting from A=1, then assign sequential values",
+      "proof": "17 \u00d7 11 = 187 = 'ENGLISH ALPHABET' in EQ (AL 2:76 verification)",
+      "cipher_table": {
+        "description": "The 26 letters of the English alphabet assigned values 1-26 in the order: every 11th letter",
+        "order_and_value": [
+          {
+            "letter": "A",
+            "order": 1,
+            "value": 1
+          },
+          {
+            "letter": "L",
+            "order": 2,
+            "value": 2
+          },
+          {
+            "letter": "W",
+            "order": 3,
+            "value": 3
+          },
+          {
+            "letter": "H",
+            "order": 4,
+            "value": 4
+          },
+          {
+            "letter": "S",
+            "order": 5,
+            "value": 5
+          },
+          {
+            "letter": "D",
+            "order": 6,
+            "value": 6
+          },
+          {
+            "letter": "O",
+            "order": 7,
+            "value": 7
+          },
+          {
+            "letter": "Z",
+            "order": 8,
+            "value": 8
+          },
+          {
+            "letter": "K",
+            "order": 9,
+            "value": 9
+          },
+          {
+            "letter": "V",
+            "order": 10,
+            "value": 10
+          },
+          {
+            "letter": "G",
+            "order": 11,
+            "value": 11
+          },
+          {
+            "letter": "R",
+            "order": 12,
+            "value": 12
+          },
+          {
+            "letter": "C",
+            "order": 13,
+            "value": 13
+          },
+          {
+            "letter": "N",
+            "order": 14,
+            "value": 14
+          },
+          {
+            "letter": "Y",
+            "order": 15,
+            "value": 15
+          },
+          {
+            "letter": "J",
+            "order": 16,
+            "value": 16
+          },
+          {
+            "letter": "U",
+            "order": 17,
+            "value": 17
+          },
+          {
+            "letter": "F",
+            "order": 18,
+            "value": 18
+          },
+          {
+            "letter": "Q",
+            "order": 19,
+            "value": 19
+          },
+          {
+            "letter": "B",
+            "order": 20,
+            "value": 20
+          },
+          {
+            "letter": "M",
+            "order": 21,
+            "value": 21
+          },
+          {
+            "letter": "X",
+            "order": 22,
+            "value": 22
+          },
+          {
+            "letter": "I",
+            "order": 23,
+            "value": 23
+          },
+          {
+            "letter": "T",
+            "order": 24,
+            "value": 24
+          },
+          {
+            "letter": "E",
+            "order": 25,
+            "value": 25
+          },
+          {
+            "letter": "P",
+            "order": 26,
+            "value": 26
+          }
+        ]
+      },
+      "key_word_values": {
+        "ABRAHADABRA": 79,
+        "THELEMA": 102,
+        "HADIT": 58,
+        "NUIT": 78,
+        "ALW": 6,
+        "RAHOORKHUIT": 120,
+        "AIWASS": 38,
+        "ENGLISHALPHABET": 187,
+        "LOVE": 44,
+        "WILL": 30,
+        "STAR": 42,
+        "KHABS": 39,
+        "KHU": 30
+      }
+    },
+    "al_cipher": {
+      "description": "The ALW cipher as it appears in Liber AL and Thelemic tradition",
+      "note": "The cipher is embedded in the manuscript of AL III:47 through the 'chance shape of the letters and their position to one another'",
+      "manuscript_cipher": {
+        "source": "AL 2:76",
+        "cipher_string": "4 6 3 8 A B K 2 4 A L G M O R 3 Y X 24 89 R P S T O V A L",
+        "lines": {
+          "line_1": "4 6 3 8 A B K 2 4 A L G M O R 3 Y",
+          "line_2": "X 24 89 R P S T O V A L"
+        },
+        "element_counts": {
+          "line_1_count": 17,
+          "line_2_count": 11,
+          "total": 28
+        },
+        "solution": {
+          "method": "Jake Stratton-Kent solution: 17 elements in line 1 \u00d7 11 elements in line 2 = 187",
+          "result": "187 = 'ENGLISH ALPHABET' in EQ",
+          "significance": "Confirms the order & value of the English Alphabet"
+        }
+      },
+      "symbols": {
+        "description": "The Illuminati Cipher symbols correspond to each letter of the English alphabet",
+        "source": "Crowley's tablet in Liber AL manuscript",
+        "note": "Each letter has a unique symbol superimposed on the manuscript page of AL III:47. These symbols form the visual cipher key."
+      }
+    }
+  },
+  "key_verses": {
+    "description": "Numerically significant verses used in Thelemic cipher operations",
+    "foundational_ch1": [
+      {
+        "reference": "AL 1:1",
+        "text": "Had! The manifestation of Nuit.",
+        "significance": "Opening invocation; establishes the speaker as Nuit",
+        "cipher_use": "Entry point for Nuit-channel encryption"
+      },
+      {
+        "reference": "AL 1:3",
+        "text": "Every man and every woman is a star.",
+        "significance": "The Thelemic axiom of individual sovereignty",
+        "cipher_use": "Star = 42 in EQ; key for identity operations"
+      },
+      {
+        "reference": "AL 1:24",
+        "text": "I am Nuit, and my word is six and fifty.",
+        "significance": "Establishes Nuit's number as 56 (six and fifty)",
+        "cipher_use": "Key value 56 for Nuit operations"
+      },
+      {
+        "reference": "AL 1:25",
+        "text": "Divide, add, multiply, and understand.",
+        "significance": "The four cryptographic operations",
+        "cipher_use": "Instruction set for cipher manipulation"
+      },
+      {
+        "reference": "AL 1:39",
+        "text": "The word of the Law is \u0398\u03b5\u03bb\u03b7\u03bc\u03b1.",
+        "significance": "Defines Thelema (\u0398\u03b5\u03bb\u03b7\u03bc\u03b1) as the word of the Law",
+        "cipher_use": "Greek key word with value 93"
+      },
+      {
+        "reference": "AL 1:40",
+        "text": "Do what thou wilt shall be the whole of the Law.",
+        "significance": "The central ethical principle of Thelema",
+        "cipher_use": "Verification phrase; 93 characters including spaces"
+      },
+      {
+        "reference": "AL 1:46",
+        "text": "Nothing is a secret key of this law. Sixty-one the Jews call it; I call it eight, eighty, four hundred & eighteen.",
+        "significance": "Reveals the key 418 (8, 80, 418); 61 = Jewish Shema reference",
+        "cipher_use": "Triple key: 61 (Jews), 8, 80, 418"
+      },
+      {
+        "reference": "AL 1:47",
+        "text": "But they have the half: unite by thine art so that all disappear.",
+        "significance": "Injunction to unite the halves (61 + 418 = ?; half = 8/2=4, 80/2=40, 418/2=209)",
+        "cipher_use": "Halving/uniting operations"
+      },
+      {
+        "reference": "AL 1:57",
+        "text": "Invoke me under my stars! Love is the law, love under will. Nor let the fools mistake love; for there are love and love. There is the dove, and there is the serpent. Choose ye well!",
+        "significance": "Instruction for invocation and the dual nature of love",
+        "cipher_use": "Invocation protocol; dove/serpent binary key"
+      },
+      {
+        "reference": "AL 1:58",
+        "text": "I give unimaginable joys on earth: certainty, not faith, while in life, upon death; peace unutterable, rest, ecstasy; nor do I demand aught in sacrifice.",
+        "significance": "Promise of certainty; 'certainty, not faith' = knowledge vs belief",
+        "cipher_use": "Key for 'certainty' mode in cipher"
+      },
+      {
+        "reference": "AL 1:60",
+        "text": "My number is 11, as all their numbers who are of us.",
+        "significance": "Nuit's number is 11; the cipher step",
+        "cipher_use": "Primary modulus; 11 is the cipher step"
+      },
+      {
+        "reference": "AL 1:65",
+        "text": "To me! To me!",
+        "significance": "Closing invocation of Chapter 1",
+        "cipher_use": "Termination signal for Nuit channel"
+      }
+    ],
+    "chapter_2_key_verses": [
+      {
+        "reference": "AL 2:1",
+        "text": "Nu! the hiding of Hadit.",
+        "significance": "Opening of Chapter 2; complements AL 1:1 'Had! The manifestation of Nuit.'",
+        "cipher_use": "Entry point for Hadit-channel encryption"
+      },
+      {
+        "reference": "AL 2:3",
+        "text": "In the sphere I am everywhere the centre, as she, the circumference, is nowhere found.",
+        "significance": "Hadit as the center point; complement to Nuit's circumference",
+        "cipher_use": "Center/circumference key structure"
+      },
+      {
+        "reference": "AL 2:6",
+        "text": "I am the flame that burns in every heart of man, and in the core of every star. I am Life, and the giver of Life, yet therefore is the knowledge of me the knowledge of death.",
+        "significance": "Life/death duality through Hadit",
+        "cipher_use": "Flame key; life/death binary"
+      },
+      {
+        "reference": "AL 2:55",
+        "text": "Thou shalt obtain the order & value of the English Alphabet; thou shalt find new symbols to attribute them unto.",
+        "significance": "The injunction that led to the discovery of English Qaballa",
+        "cipher_use": "Source verse for the ALW cipher"
+      },
+      {
+        "reference": "AL 2:75",
+        "text": "Aye! listen to the numbers & the words:",
+        "significance": "Introduces the cipher string of AL 2:76",
+        "cipher_use": "Attention marker for cipher data"
+      },
+      {
+        "reference": "AL 2:76",
+        "text": "4 6 3 8 A B K 2 4 A L G M O R 3 Y X 24 89 R P S T O V A L.",
+        "significance": "The cipher string; verification of the English Qaballa",
+        "cipher_use": "Embedded cipher data; 17\u00d711=187 proof"
+      },
+      {
+        "reference": "AL 2:78",
+        "text": "Lift up thyself! for there is none like unto thee among men or among Gods! They shall worship thy name, foursquare, mystic, wonderful, the number of the man; and the name of thy house 418.",
+        "significance": "The 'name of thy house 418' \u2014 connects to Abrahadabra",
+        "cipher_use": "418 as house/sigil value"
+      }
+    ],
+    "chapter_3_key_verses": [
+      {
+        "reference": "AL 3:1",
+        "text": "Abrahadabra; the reward of Ra Hoor Khut.",
+        "significance": "The word of the Aeon; 11 letters, value 418 (Hebrew) / 79 (EQ)",
+        "cipher_use": "Master cipher key; 11-letter word"
+      },
+      {
+        "reference": "AL 3:3",
+        "text": "Now let it be first understood that I am a god of War and of Vengeance. I shall deal hardly with them.",
+        "significance": "Defines Ra-Hoor-Khuit as warrior god",
+        "cipher_use": "War/vengeance key mode"
+      },
+      {
+        "reference": "AL 3:19",
+        "text": "That st\u00e9l\u00e9 they shall call the Abomination of Desolation; count well its name, & it shall be to you as 718.",
+        "significance": "Stele of Revealing value 718 (418 + 300)",
+        "cipher_use": "718 as stele signature"
+      },
+      {
+        "reference": "AL 3:47",
+        "text": "This book shall be translated into all tongues: but always with the original in the writing of the Beast; for in the chance shape of the letters and their position to one another: in these are mysteries that no Beast shall divine. Let him not seek to try: but one cometh after him, whence I say not, who shall discover the Key of it all. Then this line drawn is a key: then this circle squared in its failure is a key also.",
+        "significance": "The verse that contains the cipher key in the manuscript's letter shapes",
+        "cipher_use": "Source of the ALW cipher symbols"
+      },
+      {
+        "reference": "AL 3:60",
+        "text": "There is no law beyond Do what thou wilt.",
+        "significance": "Completes the legal formula; 'Do what thou wilt' = no law",
+        "cipher_use": "Null/zero law; the ultimate cipher escape"
+      },
+      {
+        "reference": "AL 3:75",
+        "text": "The ending of the words is the Word Abrahadabra.",
+        "significance": "Closing formula; bookends with AL 3:1",
+        "cipher_use": "Termination sequence"
+      }
+    ]
+  },
+  "numerical_constants": {
+    "description": "Key numbers used in Thelemic cipher operations",
+    "core_constants": {
+      "11": {
+        "source": "AL 1:60 \u2014 'My number is 11'",
+        "significance": "The cipher step; the modulus; the number of Nuit",
+        "uses": [
+          "Cipher rotation",
+          "ALW step (every 11th letter)",
+          "Abrahadabra has 11 letters"
+        ]
+      },
+      "56": {
+        "source": "AL 1:24 \u2014 'six and fifty'",
+        "significance": "Nuit's word; 56 = 7 \u00d7 8",
+        "uses": [
+          "Nuit key value",
+          "7 \u00d7 8 = cosmic structure"
+        ]
+      },
+      "93": {
+        "source": "AL 1:39 (Thelema); AL 1:40 (Agape)",
+        "significance": "Will and Love; the Thelemic greeting",
+        "uses": [
+          "Verification value",
+          "key exchange",
+          "modulus"
+        ]
+      },
+      "102": {
+        "source": "THELEMA in English Qaballa",
+        "significance": "Will in English; 93 + 9 (Thelema + Theta)",
+        "uses": [
+          "EQ verification key"
+        ]
+      },
+      "187": {
+        "source": "AL 2:76 \u2014 17 \u00d7 11 = 187; 'ENGLISH ALPHABET' in EQ",
+        "significance": "Proof of the cipher; the alphabet's self-value",
+        "uses": [
+          "Cipher verification",
+          "AL 2:76 proof"
+        ]
+      },
+      "418": {
+        "source": "AL 1:46; AL 2:78; AL 3:1; Abrahadabra (Hebrew); Aiwass (Greek)",
+        "significance": "The Great Work accomplished; the Stele; the messenger",
+        "uses": [
+          "Master cipher key",
+          "Stele value",
+          "Aiwass key"
+        ]
+      },
+      "666": {
+        "source": "DCLXVI; the number of the Beast",
+        "significance": "Solar number; Crowley's number",
+        "uses": [
+          "Beast signature",
+          "key derivation"
+        ]
+      },
+      "718": {
+        "source": "AL 3:19 \u2014 Stele of Revealing",
+        "significance": "418 + 300 (the Stele)",
+        "uses": [
+          "Stele cipher signature"
+        ]
+      },
+      "777": {
+        "source": "Crowley's Liber 777",
+        "significance": "Table of correspondences; 7\u00d7111",
+        "uses": [
+          "Key derivation table",
+          "Hebrew/Greek/English mapping"
+        ]
+      }
+    },
+    "derived_constants": {
+      "220": "Total verses in Liber AL (66 + 79 + 75)",
+      "419": "Teth in Hebrew full spelling; Abrahadabra (Hebrew standard)",
+      "351": "Sum of all 26 EQ values (1+2+...+26 = 351)"
+    }
+  },
+  "cryptographic_applications": {
+    "description": "How to use these cipher elements for encryption",
+    "key_derivation": {
+      "method_1_verse_based": "Use verse numbers (chapter:verse) as key indices",
+      "method_2_gematria": "Sum letters of a Thelemic word using EQ values",
+      "method_3_mixed": "Combine Greek isopsephia + EQ for dual-layer keys",
+      "method_4_eleven_based": "Rotate by 11 (the cipher step) for polyalphabetic operations"
+    },
+    "cipher_methods": {
+      "substitution_eq": "Replace each letter with its EQ value (A=1, L=2, W=3...)",
+      "transposition_verse": "Use verse numbers as transposition key sequence",
+      "rotation_eleven": "Rotate by 11 (the cipher step) or 93 (Thelema)",
+      "modular_26": "Standard mod 26 for letters, mod 93 for Thelemic operations",
+      "dual_layer": "Layer 1: EQ values; Layer 2: Greek isopsephia values"
+    },
+    "example_encryption": {
+      "plaintext": "THELEMA",
+      "eq_values": {
+        "T": 24,
+        "H": 4,
+        "E": 25,
+        "L": 2,
+        "M": 21,
+        "A": 1
+      },
+      "cipher_sum": 102,
+      "breakdown": "24 + 4 + 25 + 2 + 25 + 21 + 1 = 102",
+      "interpretation": "102 = 93 (Thelema Greek) + 9 (Theta) = Will + Theta"
+    }
+  },
+  "references": {
+    "primary_source": "Liber AL vel Legis (The Book of the Law), Aleister Crowley, 1904",
+    "english_qaballa_source": "James Lees, 1976; Jake Stratton-Kent, 1988",
+    "wikipedia": "https://en.wikipedia.org/wiki/English_Qaballa",
+    "wikipedia_book": "https://en.wikipedia.org/wiki/The_Book_of_the_Law",
+    "sacred_texts": "https://sacred-texts.com/oto/engccxx.htm",
+    "thelemapedia": "https://thelemapedia.org",
+    "lib_oto": "https://lib.oto-usa.org/libri/liber0220.html",
+    "equinox_journal": "The New Equinox, edited by James Lees, 1981-1982"
+  }
+}
