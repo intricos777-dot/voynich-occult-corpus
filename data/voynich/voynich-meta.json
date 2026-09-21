@@ -1,0 +1,18 @@
+{
+  "source": "https://www.voynich.nu/data/RF1b-e.txt",
+  "format": "IVTFF Eva- 2.0 D 9",
+  "total_characters": 362373,
+  "total_pages": 240,
+  "sections": {
+    "herbal": "f1r-f38v (plant illustrations)",
+    "astronomical": "f39v-f46v (zodiac/cosmological)",
+    "balneological": "f47r-f57v (bath/tube figures)",
+    "pharmaceutical": "f58r-f73v (apothecary/jar labels)",
+    "recipes": "f75r-f84v (starred paragraphs)",
+    "text_heavy": "f85r-f116v (pure text, no illustrations)"
+  },
+  "alphabet": "EVA (European Voynich Alphabet)",
+  "language": "undeciphered",
+  "estimated_date": "1404-1438 (radiocarbon)",
+  "estimated_origin": "Northern Italy"
+}
