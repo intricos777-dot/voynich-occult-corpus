@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "method": "cosine_similarity",
+    "baseline": "Voynich EVA character frequencies (o,e,h,y,a,c,i,k,l,d,r,s,t,f,n,q = top 17 chars)",
+    "languages_tested": 164,
+    "successful": 151,
+    "failed": 13,
+    "text_source": "Project Gutenberg + Wikipedia + Archive.org",
+    "chars_per_language": 80000
+  },
+  "top_30": [
+    {"rank":1,"lang":"Cornish","similarity":0.8785},
+    {"rank":2,"lang":"Japanese","similarity":0.8771},
+    {"rank":3,"lang":"Pali (Tipitaka)","similarity":0.8726},
+    {"rank":4,"lang":"Cherokee","similarity":0.8714},
+    {"rank":5,"lang":"Old Chinese (OC)","similarity":0.8711},
+    {"rank":6,"lang":"Tigrinya","similarity":0.8704},
+    {"rank":7,"lang":"Norwegian","similarity":0.8704},
+    {"rank":8,"lang":"Hungarian","similarity":0.8701},
+    {"rank":9,"lang":"Guarani","similarity":0.8699},
+    {"rank":10,"lang":"German","similarity":0.8699},
+    {"rank":11,"lang":"Xhosa","similarity":0.8698},
+    {"rank":12,"lang":"Swahili","similarity":0.8693},
+    {"rank":13,"lang":"Zulu","similarity":0.8691},
+    {"rank":14,"lang":"Burmese","similarity":0.8685},
+    {"rank":15,"lang":"Lithuanian","similarity":0.8683},
+    {"rank":16,"lang":"Thai","similarity":0.8675},
+    {"rank":17,"lang":"Polish","similarity":0.8674},
+    {"rank":18,"lang":"Coptic","similarity":0.8671},
+    {"rank":19,"lang":"Middle Chinese (MC)","similarity":0.8668},
+    {"rank":20,"lang":"Galician","similarity":0.8662},
+    {"rank":21,"lang":"Hittite","similarity":0.8656},
+    {"rank":22,"lang":"Italian","similarity":0.8656},
+    {"rank":23,"lang":"Somali","similarity":0.8654},
+    {"rank":24,"lang":"Phoenician","similarity":0.8653},
+    {"rank":25,"lang":"Faroese","similarity":0.8652},
+    {"rank":26,"lang":"Avestan (Yasna)","similarity":0.8651},
+    {"rank":27,"lang":"Swedish","similarity":0.8651},
+    {"rank":28,"lang":"Danish","similarity":0.8651},
+    {"rank":29,"lang":"Ojibwe","similarity":0.8651},
+    {"rank":30,"lang":"Croatian","similarity":0.8651}
+  ],
+  "summary": {
+    "range": "0.7772 (Nahuatl) to 0.8785 (Cornish)",
+    "mean": 0.8607,
+    "std_dev": 0.0154,
+    "interpretation": "All natural languages score 0.78-0.88 against Voynich character frequencies. The narrow band means cosine similarity on character frequency alone cannot distinguish Voynich from any known language. The slight elevation of Japanese/Cornish/Cherokee/Pali/Chinese is due to their character inventory overlapping with the EVA subset used for comparison. This is a limitation of the method, not a real signal."
+  }
+}
