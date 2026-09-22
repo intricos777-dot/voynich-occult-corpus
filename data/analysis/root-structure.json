@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "total_words": 33796,
+    "unique_words": 9425,
+    "decoder": "Voynich Root Structure Decoder v1.0"
+  },
+  "phonology": {
+    "character_entropy_bits": 3.863,
+    "bigram_entropy_bits": 6.4105,
+    "entropy_rate_bits": 2.5475
+  },
+  "morphology": {
+    "agglutination_index": 3.8983,
+    "top_prefixes": {
+      "ch": 5239,
+      "qo": 4656,
+      "qok": 2713,
+      "sh": 2444,
+      "ot": 2246,
+      "che": 2232,
+      "ok": 2167,
+      "she": 1241,
+      "da": 1228,
+      "qot": 978,
+      "ol": 924,
+      "oke": 862,
+      "cho": 848,
+      "ote": 827,
+      "dai": 743
+    },
+    "top_suffixes": {
+      "in": 5389,
+      "dy": 4326,
+      "ey": 3578,
+      "iin": 3452,
+      "edy": 2674,
+      "ol": 2061,
+      "ar": 1753,
+      "eey": 1679,
+      ";y": 1649,
+      "2;y": 1642,
+      "hy": 1560,
+      "al": 1404,
+      "or": 1211,
+      "ain": 1168,
+      "hey": 833
+    },
+    "top_roots": {
+      "in": 1925,
+      "ol": 1869,
+      "ey": 1782,
+      "dy": 1360,
+      "ar": 1303,
+      "al": 1062,
+      "or": 1054,
+      "edy": 802,
+      "iin": 752,
+      "ai": 592,
+      "ee": 582,
+      "eey": 566,
+      "@15": 529,
+      "ain": 528,
+      "ch": 518,
+      "eo": 420,
+      "dar": 340,
+      "ky": 336,
+      "e@15": 333,
+      "ody": 327,
+      "am": 322,
+      "hy": 320,
+      "ir": 272,
+      "chy": 266,
+      "he": 242
+    }
+  },
+  "structure": {
+    "word_signatures": {
+      "VC": 1585,
+      "VGVC": 1031,
+      "CVC": 822,
+      "CVVVC": 751,
+      "CCVC": 719,
+      "GVGVC": 716,
+      "GVC": 674,
+      "VVVC": 628,
+      "CCVV": 594,
+      "VGVVC": 587,
+      "VGVVVC": 581,
+      "VGVVV": 513,
+      "GVGVVC": 507,
+      "CCVCV": 477,
+      "GVGVVV": 455,
+      "CCVVC": 408,
+      "GVGVVVC": 405,
+      "GCVV": 377,
+      "VGVCV": 341,
+      "GVVVC": 338,
+      "VGVV": 333,
+      "GCVC": 318,
+      "GVGVVCV": 311,
+      "VCVC": 308,
+      "GCVCV": 298
+    },
+    "word_initial": {
+      "o": 7907,
+      "c": 6073,
+      "q": 4994,
+      "s": 3573,
+      "d": 2683,
+      "a": 1901,
+      "y": 1554,
+      "l": 1212,
+      "k": 891,
+      "t": 855,
+      "@": 773,
+      "p": 462,
+      "{": 338,
+      "r": 323,
+      "e": 106
+    },
+    "word_final": {
+      "y": 13726,
+      "n": 5597,
+      "l": 5123,
+      "r": 5082,
+      "s": 997,
+      "m": 962,
+      "o": 835,
+      "d": 461,
+      ";": 461,
+      "g": 142,
+      "e": 87,
+      "k": 52,
+      "h": 48,
+      "t": 46,
+      "a": 36
+    },
+    "top_transitions": [
+      {
+        "from": "y",
+        "to": "$",
+        "count": 13726
+      },
+      {
+        "from": "c",
+        "to": "h",
+        "count": 10308
+      },
+      {
+        "from": "^",
+        "to": "o",
+        "count": 7907
+      },
+      {
+        "from": "h",
+        "to": "e",
+        "count": 7424
+      },
+      {
+        "from": "a",
+        "to": "i",
+        "count": 6211
+      },
+      {
+        "from": "^",
+        "to": "c",
+        "count": 6073
+      },
+      {
+        "from": "i",
+        "to": "n",
+        "count": 5598
+      },
+      {
+        "from": "n",
+        "to": "$",
+        "count": 5597
+      },
+      {
+        "from": "o",
+        "to": "k",
+        "count": 5584
+      },
+      {
+        "from": "l",
+        "to": "$",
+        "count": 5123
+      },
+      {
+        "from": "e",
+        "to": "e",
+        "count": 5099
+      },
+      {
+        "from": "r",
+        "to": "$",
+        "count": 5082
+      },
+      {
+        "from": "o",
+        "to": "l",
+        "count": 5000
+      },
+      {
+        "from": "^",
+        "to": "q",
+        "count": 4994
+      },
+      {
+        "from": "q",
+        "to": "o",
+        "count": 4906
+      }
+    ]
+  },
+  "boundaries": {
+    "strongest_morpheme_boundaries": [
+      {
+        "from": "o",
+        "to": "h",
+        "pmi": -10.5244
+      },
+      {
+        "from": "y",
+        "to": "i",
+        "pmi": -9.9408
+      },
+      {
+        "from": "c",
+        "to": "e",
+        "pmi": -9.5308
+      },
+      {
+        "from": "y",
+        "to": "h",
+        "pmi": -9.4775
+      },
+      {
+        "from": "l",
+        "to": "i",
+        "pmi": -9.1971
+      },
+      {
+        "from": "a",
+        "to": "h",
+        "pmi": -9.1906
+      },
+      {
+        "from": "h",
+        "to": "q",
+        "pmi": -8.9716
+      },
+      {
+        "from": "c",
+        "to": "c",
+        "pmi": -8.8843
+      },
+      {
+        "from": "a",
+        "to": "o",
+        "pmi": -8.6356
+      },
+      {
+        "from": "n",
+        "to": "k",
+        "pmi": -8.4602
+      }
+    ]
+  }
+}
