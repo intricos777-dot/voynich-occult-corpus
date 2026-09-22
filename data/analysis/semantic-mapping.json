@@ -1,0 +1,2191 @@
+{
+  "metadata": {
+    "engine": "Voynich Semantic Mapper v1.0",
+    "total_morphemes": 46,
+    "sections_analyzed": 8,
+    "confidence": "MEDIUM \u2014 section-context informed, not verified",
+    "method": "distributional semantics + section-content correlation"
+  },
+  "morpheme_semantics": {
+    "ch": {
+      "meaning": "ANIMATE \u2014 human/animal/agent",
+      "class": "prefix",
+      "cross_ref": "Bantu class 1 mu-/mw-",
+      "distribution": "all sections, highest in balneo/herbal"
+    },
+    "qo": {
+      "meaning": "CELESTIAL/abstract/spatial",
+      "class": "prefix",
+      "cross_ref": "PIE *k\u02b7- (interrogative/spatial)",
+      "distribution": "dominant in astronomical, text_heavy"
+    },
+    "qok": {
+      "meaning": "FUTURE/irrealis verb mode",
+      "class": "prefix",
+      "cross_ref": "Turkic -AcAk (future)",
+      "distribution": "recipes, text_heavy"
+    },
+    "sh": {
+      "meaning": "PLANT/natural/organic",
+      "class": "prefix",
+      "cross_ref": "Bantu class 7 ki- (natural objects)",
+      "distribution": "dominant in herbal"
+    },
+    "ot": {
+      "meaning": "INSTRUMENT/tool/vessel",
+      "class": "prefix",
+      "cross_ref": "PIE *h\u2083et- (tool), Bantu class 13",
+      "distribution": "pharmaceutical, balneological"
+    },
+    "che": {
+      "meaning": "ACTION/verb marker",
+      "class": "prefix",
+      "cross_ref": "PIE *g\u02b7\u02b0en- (do/make)",
+      "distribution": "recipes, text_heavy"
+    },
+    "ok": {
+      "meaning": "DIRECTIONAL/locative",
+      "class": "prefix",
+      "cross_ref": "Finnish -ssa (inessive)",
+      "distribution": "all sections"
+    },
+    "she": {
+      "meaning": "PLANT-specific/leaf",
+      "class": "prefix",
+      "cross_ref": "PIE *d\u02b0ewh\u2082- (smoke/plant)",
+      "distribution": "herbal dominant"
+    },
+    "da": {
+      "meaning": "EXISTENTIAL/being/state",
+      "class": "prefix",
+      "cross_ref": "Semitic *d-h-b (gold/existence)",
+      "distribution": "text_heavy, recipes"
+    },
+    "qot": {
+      "meaning": "CELESTIAL/sky-moon",
+      "class": "prefix",
+      "cross_ref": "Semitic \u0161amayim",
+      "distribution": "astronomical"
+    },
+    "ol": {
+      "meaning": "PLURAL/collective",
+      "class": "prefix",
+      "cross_ref": "PIE *-\u014ds (plural)",
+      "distribution": "all sections"
+    },
+    "oke": {
+      "meaning": "WATER/liquid/fluid",
+      "class": "prefix",
+      "cross_ref": "PIE *h\u2082ek\u02b7eh\u2082 (water)",
+      "distribution": "balneological, pharmaceutical"
+    },
+    "cho": {
+      "meaning": "BODY PART/extremity",
+      "class": "prefix",
+      "cross_ref": "PIE *\u1e31er- (head)",
+      "distribution": "herbal, balneological"
+    },
+    "ote": {
+      "meaning": "FIRE/heat/thermal",
+      "class": "prefix",
+      "cross_ref": "PIE *h\u2081n\u0325g\u02b7nis (fire)",
+      "distribution": "pharmaceutical, recipes"
+    },
+    "in": {
+      "meaning": "DATIVE \u2014 to/for (recipient)",
+      "class": "suffix",
+      "cross_ref": "PIE *-en, Bantu applicative -il-"
+    },
+    "dy": {
+      "meaning": "LOCATIVE \u2014 at/in/on (location)",
+      "class": "suffix",
+      "cross_ref": "PIE *-d\u02b0i, Bantu locative -ini"
+    },
+    "ey": {
+      "meaning": "ACCUSATIVE \u2014 direct object",
+      "class": "suffix",
+      "cross_ref": "PIE *-m, Bantu object concord"
+    },
+    "iin": {
+      "meaning": "GENITIVE \u2014 of/possession",
+      "class": "suffix",
+      "cross_ref": "PIE *-osyo, Bantu associative -an-"
+    },
+    "ar": {
+      "meaning": "ABLATIVE \u2014 from/origin",
+      "class": "suffix",
+      "cross_ref": "PIE *-\u014dd, Bantu -ko"
+    },
+    "ol_suf": {
+      "meaning": "INSTRUMENTAL \u2014 by/with means",
+      "class": "suffix",
+      "cross_ref": "PIE *-h\u2081, Bantu instrumental"
+    },
+    "hy": {
+      "meaning": "COMITATIVE \u2014 with/accompaniment",
+      "class": "suffix",
+      "cross_ref": "PIE *-b\u02b0i, Bantu comitative -na"
+    },
+    "al": {
+      "meaning": "ADJECTIVIZER \u2014 quality/state",
+      "class": "suffix",
+      "cross_ref": "PIE *-likos, Bantu -fu"
+    },
+    "eey": {
+      "meaning": "INTENSIVE \u2014 much/greatly",
+      "class": "suffix",
+      "cross_ref": "PIE *-yos, Bantu augmentative"
+    },
+    "chy": {
+      "meaning": "DIMINUTIVE \u2014 small/little",
+      "class": "suffix",
+      "cross_ref": "PIE *-kos, Bantu diminutive"
+    },
+    "hey": {
+      "meaning": "AUGMENTATIVE \u2014 large/great",
+      "class": "suffix",
+      "cross_ref": "PIE *-\u014ds, Bantu augmentative"
+    },
+    "am": {
+      "meaning": "IMPERATIVE \u2014 command",
+      "class": "suffix",
+      "cross_ref": "PIE *-d\u02b0i, Bantu imperative"
+    },
+    "ody": {
+      "meaning": "DURATIVE \u2014 ongoing/continuous",
+      "class": "suffix",
+      "cross_ref": "PIE *-onts, Bantu progressive"
+    },
+    "ain": {
+      "meaning": "RESULTATIVE \u2014 completed action",
+      "class": "suffix",
+      "cross_ref": "PIE *-tus, Bantu perfective"
+    },
+    "or": {
+      "meaning": "ERGATIVE \u2014 agent/subject marker",
+      "class": "suffix",
+      "cross_ref": "Basque -k, Caucasian ergative"
+    },
+    "dai": {
+      "meaning": "LIFE/breath/alive",
+      "class": "root",
+      "cross_ref": "PIE *d\u02b0eh\u2081-"
+    },
+    "ai": {
+      "meaning": "STAR/light/sky",
+      "class": "root",
+      "cross_ref": "PIE *h\u2082ster-"
+    },
+    "chor": {
+      "meaning": "CIRCLE/orbit/revolution",
+      "class": "root",
+      "cross_ref": "PIE *k\u02b7ek\u02b7los"
+    },
+    "shey": {
+      "meaning": "PLANT/grow/green",
+      "class": "root",
+      "cross_ref": "PIE *d\u02b0ewh\u2082-"
+    },
+    "chol": {
+      "meaning": "FIRE/burn/heat",
+      "class": "root",
+      "cross_ref": "PIE *g\u02b7\u02b0er-"
+    },
+    "shol": {
+      "meaning": "LEAF/covering/surface",
+      "class": "root",
+      "cross_ref": "PIE *\u1e31el- (hide/cover)"
+    },
+    "otee": {
+      "meaning": "FLOW/move/pour",
+      "class": "root",
+      "cross_ref": "PIE *h\u2081et-"
+    },
+    "okee": {
+      "meaning": "WATER/liquid/drink",
+      "class": "root",
+      "cross_ref": "PIE *h\u2082ek\u02b7eh\u2082"
+    },
+    "chdy": {
+      "meaning": "ROOT/below/under",
+      "class": "root",
+      "cross_ref": "PIE *wr\u0325d\u02b0os"
+    },
+    "shod": {
+      "meaning": "EARTH/ground/soil",
+      "class": "root",
+      "cross_ref": "PIE *dhg\u02b0om-"
+    },
+    "chot": {
+      "meaning": "FINISH/end/complete",
+      "class": "root",
+      "cross_ref": "PIE *k\u02b7et-"
+    },
+    "soi": {
+      "meaning": "SLEEP/rest/silence",
+      "class": "root",
+      "cross_ref": "PIE *swep-"
+    },
+    "daiin": {
+      "meaning": "LIVING BEING/person",
+      "class": "root",
+      "cross_ref": "PIE *d\u02b0eh\u2081-yo-"
+    },
+    "aiin": {
+      "meaning": "STARLIGHT/celestial fire",
+      "class": "root",
+      "cross_ref": "PIE *h\u2082ster-yo-"
+    },
+    "chdal": {
+      "meaning": "SEED/kernel/core",
+      "class": "root",
+      "cross_ref": "PIE *\u01f5\u02b0el- (yellow/seed)"
+    },
+    "oteey": {
+      "meaning": "FLOWING WATER/stream",
+      "class": "root",
+      "cross_ref": "PIE *h\u2081et-yo-"
+    },
+    "okeey": {
+      "meaning": "DRINKING WATER/pure",
+      "class": "root",
+      "cross_ref": "PIE *h\u2082ek\u02b7eh\u2082-yo-"
+    }
+  },
+  "section_analysis": {
+    "herbal_A": {
+      "total_words": 1271,
+      "unique_words": 710,
+      "top_30": [
+        {
+          "daiin": 60
+        },
+        {
+          "chol": 37
+        },
+        {
+          "chor": 34
+        },
+        {
+          "cthy": 28
+        },
+        {
+          "dain": 21
+        },
+        {
+          "shol": 18
+        },
+        {
+          "sho": 16
+        },
+        {
+          "chy": 14
+        },
+        {
+          "dar": 12
+        },
+        {
+          "dy": 12
+        },
+        {
+          "shor": 11
+        },
+        {
+          "char": 10
+        },
+        {
+          "cthol": 10
+        },
+        {
+          "chaiin": 10
+        },
+        {
+          "or": 9
+        },
+        {
+          "shody": 9
+        },
+        {
+          "dol": 8
+        },
+        {
+          "cthor": 8
+        },
+        {
+          "shey": 7
+        },
+        {
+          "chodaiin": 7
+        },
+        {
+          "otol": 7
+        },
+        {
+          "qotchy": 7
+        },
+        {
+          "cthar": 6
+        },
+        {
+          "chey": 6
+        },
+        {
+          "aiin": 6
+        },
+        {
+          "dal": 5
+        },
+        {
+          "chody": 5
+        },
+        {
+          "cthey": 5
+        },
+        {
+          "dor": 5
+        },
+        {
+          "otaiin": 5
+        }
+      ],
+      "prefix_distribution": {
+        "ch": 282,
+        "sh": 138,
+        "da": 128,
+        "qo": 76,
+        "ot": 52,
+        "ok": 44,
+        "ol": 15
+      },
+      "suffix_distribution": {
+        "in": 243,
+        "ol": 150,
+        "hy": 138,
+        "or": 132,
+        "ey": 86,
+        "dy": 76,
+        "ar": 75,
+        "am": 30,
+        "al": 26
+      },
+      "context": {
+        "description": "Large plant illustrations \u2014 roots, leaves, flowers",
+        "known_terms": [
+          "root",
+          "leaf",
+          "flower",
+          "stem",
+          "plant",
+          "seed",
+          "branch"
+        ],
+        "illustrated_plants": "Various (unidentified species)"
+      }
+    },
+    "herbal_B": {
+      "total_words": 1039,
+      "unique_words": 575,
+      "top_30": [
+        {
+          "daiin": 42
+        },
+        {
+          "chol": 30
+        },
+        {
+          "chor": 26
+        },
+        {
+          "dar": 14
+        },
+        {
+          "cthy": 14
+        },
+        {
+          "chy": 13
+        },
+        {
+          "otchy": 11
+        },
+        {
+          "cthor": 11
+        },
+        {
+          "dy": 10
+        },
+        {
+          "qotchy": 10
+        },
+        {
+          "qokchy": 9
+        },
+        {
+          "or": 9
+        },
+        {
+          "dor": 8
+        },
+        {
+          "sho": 8
+        },
+        {
+          "shol": 7
+        },
+        {
+          "shy": 7
+        },
+        {
+          "@152;aiin": 7
+        },
+        {
+          "kchy": 7
+        },
+        {
+          "ol": 7
+        },
+        {
+          "ykchy": 6
+        },
+        {
+          "okchor": 6
+        },
+        {
+          "qoky": 6
+        },
+        {
+          "kchor": 6
+        },
+        {
+          "shor": 6
+        },
+        {
+          "oty": 6
+        },
+        {
+          "cthol": 6
+        },
+        {
+          "chckhy": 5
+        },
+        {
+          "chey": 5
+        },
+        {
+          "dal": 5
+        },
+        {
+          "chcthy": 5
+        }
+      ],
+      "prefix_distribution": {
+        "ch": 207,
+        "qo": 100,
+        "da": 96,
+        "sh": 65,
+        "ok": 59,
+        "ot": 49,
+        "ol": 17
+      },
+      "suffix_distribution": {
+        "hy": 181,
+        "in": 157,
+        "or": 145,
+        "ol": 139,
+        "dy": 57,
+        "ey": 43,
+        "ar": 36,
+        "al": 27,
+        "am": 7
+      },
+      "context": {
+        "description": "Medium plant illustrations",
+        "known_terms": [
+          "herb",
+          "root",
+          "leaf",
+          "bloom",
+          "grow"
+        ],
+        "illustrated_plants": "Composite plants with visible roots"
+      }
+    },
+    "herbal_C": {
+      "total_words": 1904,
+      "unique_words": 1035,
+      "top_30": [
+        {
+          "daiin": 105
+        },
+        {
+          "chor": 22
+        },
+        {
+          "aiin": 22
+        },
+        {
+          "dar": 20
+        },
+        {
+          "or": 19
+        },
+        {
+          "chol": 18
+        },
+        {
+          "ar": 17
+        },
+        {
+          "ol": 16
+        },
+        {
+          "sho": 16
+        },
+        {
+          "dain": 15
+        },
+        {
+          "chy": 15
+        },
+        {
+          "chey": 15
+        },
+        {
+          "dal": 13
+        },
+        {
+          "shy": 11
+        },
+        {
+          "qotchy": 11
+        },
+        {
+          "shol": 10
+        },
+        {
+          "otaiin": 10
+        },
+        {
+          "@152;aiin": 10
+        },
+        {
+          "cho": 10
+        },
+        {
+          "chedy": 10
+        },
+        {
+          "cthor": 9
+        },
+        {
+          "cthy": 9
+        },
+        {
+          "dol": 9
+        },
+        {
+          "oky": 9
+        },
+        {
+          "okaiin": 9
+        },
+        {
+          "dy": 9
+        },
+        {
+          "oty": 8
+        },
+        {
+          "dchor": 8
+        },
+        {
+          "qokchy": 8
+        },
+        {
+          "dair": 8
+        }
+      ],
+      "prefix_distribution": {
+        "ch": 383,
+        "da": 196,
+        "qo": 182,
+        "sh": 137,
+        "ok": 111,
+        "ot": 89,
+        "ol": 44
+      },
+      "suffix_distribution": {
+        "in": 371,
+        "or": 173,
+        "dy": 166,
+        "ol": 165,
+        "hy": 152,
+        "ar": 133,
+        "ey": 120,
+        "al": 53,
+        "am": 38
+      },
+      "context": {
+        "description": "Small plant illustrations with text labels",
+        "known_terms": [
+          "small plant",
+          "sprout",
+          "fruit",
+          "seed"
+        ],
+        "illustrated_plants": "Unidentified \u2014 possibly medicinal"
+      }
+    },
+    "astronomical": {
+      "total_words": 1419,
+      "unique_words": 825,
+      "top_30": [
+        {
+          "daiin": 25
+        },
+        {
+          "ar": 20
+        },
+        {
+          "shol": 18
+        },
+        {
+          "aiin": 18
+        },
+        {
+          "or": 17
+        },
+        {
+          "dar": 16
+        },
+        {
+          "che@152;y": 16
+        },
+        {
+          "chol": 14
+        },
+        {
+          "okaiin": 14
+        },
+        {
+          "chdy": 13
+        },
+        {
+          "@152;aiin": 13
+        },
+        {
+          "dy": 12
+        },
+        {
+          "chckhy": 11
+        },
+        {
+          "ol": 11
+        },
+        {
+          "she@152;y": 10
+        },
+        {
+          "shy": 10
+        },
+        {
+          "qokedy": 9
+        },
+        {
+          "oky": 9
+        },
+        {
+          "cthy": 9
+        },
+        {
+          "qokaiin": 8
+        },
+        {
+          "chedy": 8
+        },
+        {
+          "saiin": 7
+        },
+        {
+          "kar": 7
+        },
+        {
+          "qokar": 7
+        },
+        {
+          "qokol": 7
+        },
+        {
+          "dain": 7
+        },
+        {
+          "oty": 7
+        },
+        {
+          "shey": 6
+        },
+        {
+          "@152;am": 6
+        },
+        {
+          "cheol": 6
+        }
+      ],
+      "prefix_distribution": {
+        "ch": 245,
+        "sh": 152,
+        "qo": 131,
+        "ok": 91,
+        "da": 89,
+        "ot": 73,
+        "ol": 39
+      },
+      "suffix_distribution": {
+        "in": 208,
+        "dy": 183,
+        "ar": 121,
+        "ol": 109,
+        "hy": 102,
+        "ey": 75,
+        "or": 65,
+        "al": 48,
+        "am": 42
+      },
+      "context": {
+        "description": "Zodiac symbols, suns, moons, stars",
+        "known_terms": [
+          "sun",
+          "moon",
+          "star",
+          "zodiac",
+          "orbit",
+          "cycle",
+          "night",
+          "day"
+        ],
+        "illustrated_objects": "Pisces, Taurus, Leo, Aquarius, Scorpio; rosette diagrams with 8/9/10 rays"
+      }
+    },
+    "balneological": {
+      "total_words": 1513,
+      "unique_words": 898,
+      "top_30": [
+        {
+          "daiin": 53
+        },
+        {
+          "chol": 40
+        },
+        {
+          "aiin": 21
+        },
+        {
+          "shol": 15
+        },
+        {
+          "or": 15
+        },
+        {
+          "chey": 14
+        },
+        {
+          "okal": 12
+        },
+        {
+          "ar": 12
+        },
+        {
+          "sho": 10
+        },
+        {
+          "dy": 10
+        },
+        {
+          "chor": 9
+        },
+        {
+          "chody": 9
+        },
+        {
+          "dal": 9
+        },
+        {
+          "chy": 8
+        },
+        {
+          "dain": 8
+        },
+        {
+          "okaiin": 8
+        },
+        {
+          "dar": 8
+        },
+        {
+          "kar": 8
+        },
+        {
+          "oty": 8
+        },
+        {
+          "dam": 7
+        },
+        {
+          "okain": 7
+        },
+        {
+          "ol": 7
+        },
+        {
+          "cheey": 7
+        },
+        {
+          "okar": 7
+        },
+        {
+          "chckhy": 7
+        },
+        {
+          "odaiin": 7
+        },
+        {
+          "cthy": 6
+        },
+        {
+          "ckhy": 6
+        },
+        {
+          "shor": 6
+        },
+        {
+          "choky": 6
+        }
+      ],
+      "prefix_distribution": {
+        "ch": 284,
+        "qo": 131,
+        "sh": 113,
+        "da": 108,
+        "ok": 90,
+        "ot": 75,
+        "ol": 35
+      },
+      "suffix_distribution": {
+        "in": 243,
+        "ol": 171,
+        "ey": 141,
+        "dy": 121,
+        "hy": 105,
+        "ar": 97,
+        "or": 87,
+        "al": 70,
+        "am": 53
+      },
+      "context": {
+        "description": "Women in bathing pools connected by tubes",
+        "known_terms": [
+          "water",
+          "pool",
+          "tube",
+          "bathe",
+          "vessel",
+          "pour",
+          "flow"
+        ],
+        "illustrated_objects": "Nude women in green pools, tube networks"
+      }
+    },
+    "pharmaceutical": {
+      "total_words": 4023,
+      "unique_words": 2237,
+      "top_30": [
+        {
+          "ar": 76
+        },
+        {
+          "aiin": 43
+        },
+        {
+          "al": 40
+        },
+        {
+          "daiin": 38
+        },
+        {
+          "oteey": 33
+        },
+        {
+          "dal": 28
+        },
+        {
+          "okal": 27
+        },
+        {
+          "dar": 25
+        },
+        {
+          "okeey": 25
+        },
+        {
+          "chol": 22
+        },
+        {
+          "otey": 20
+        },
+        {
+          "ol": 20
+        },
+        {
+          "air": 20
+        },
+        {
+          "qokal": 20
+        },
+        {
+          "otar": 19
+        },
+        {
+          "dy": 19
+        },
+        {
+          "otal": 18
+        },
+        {
+          "chey": 18
+        },
+        {
+          "otaiin": 17
+        },
+        {
+          "okar": 17
+        },
+        {
+          "am": 16
+        },
+        {
+          "shol": 16
+        },
+        {
+          "oty": 16
+        },
+        {
+          "shey": 16
+        },
+        {
+          "cheky": 15
+        },
+        {
+          "dair": 15
+        },
+        {
+          "oteody": 15
+        },
+        {
+          "oteos": 15
+        },
+        {
+          "or": 14
+        },
+        {
+          "cheey": 14
+        }
+      ],
+      "prefix_distribution": {
+        "ch": 649,
+        "ot": 535,
+        "ok": 442,
+        "sh": 289,
+        "qo": 229,
+        "da": 199,
+        "ol": 93
+      },
+      "suffix_distribution": {
+        "ey": 439,
+        "ar": 405,
+        "al": 374,
+        "dy": 364,
+        "in": 357,
+        "ol": 251,
+        "hy": 175,
+        "or": 135,
+        "am": 122
+      },
+      "context": {
+        "description": "Jars and apothecary vessels",
+        "known_terms": [
+          "jar",
+          "vessel",
+          "potion",
+          "mix",
+          "pour",
+          "apothecary",
+          "prepare"
+        ],
+        "illustrated_objects": "Colored vessels, alembics, storage jars"
+      }
+    },
+    "recipes": {
+      "total_words": 6458,
+      "unique_words": 1852,
+      "top_30": [
+        {
+          "ol": 204
+        },
+        {
+          "qokain": 148
+        },
+        {
+          "chedy": 144
+        },
+        {
+          "shedy": 133
+        },
+        {
+          "qokeedy": 116
+        },
+        {
+          "qokedy": 110
+        },
+        {
+          "qol": 99
+        },
+        {
+          "qokal": 96
+        },
+        {
+          "qokaiin": 82
+        },
+        {
+          "chey": 80
+        },
+        {
+          "qokeey": 77
+        },
+        {
+          "shey": 68
+        },
+        {
+          "daiin": 66
+        },
+        {
+          "or": 60
+        },
+        {
+          "dar": 59
+        },
+        {
+          "qoky": 56
+        },
+        {
+          "dal": 50
+        },
+        {
+          "she@152;y": 49
+        },
+        {
+          "che@152;y": 48
+        },
+        {
+          "okain": 45
+        },
+        {
+          "qokar": 44
+        },
+        {
+          "qokey": 42
+        },
+        {
+          "chckhy": 40
+        },
+        {
+          "qoke@152;y": 39
+        },
+        {
+          "qotedy": 38
+        },
+        {
+          "dy": 37
+        },
+        {
+          "cheey": 37
+        },
+        {
+          "dain": 37
+        },
+        {
+          "lchedy": 36
+        },
+        {
+          "aiin": 35
+        }
+      ],
+      "prefix_distribution": {
+        "qo": 1556,
+        "ch": 786,
+        "sh": 606,
+        "ol": 570,
+        "ok": 329,
+        "ot": 297,
+        "da": 291
+      },
+      "suffix_distribution": {
+        "dy": 1420,
+        "in": 905,
+        "ey": 766,
+        "ol": 683,
+        "al": 397,
+        "ar": 321,
+        "hy": 277,
+        "or": 212,
+        "am": 48
+      },
+      "context": {
+        "description": "Starred paragraph text \u2014 preparation instructions",
+        "known_terms": [
+          "prepare",
+          "mix",
+          "heat",
+          "boil",
+          "grind",
+          "add",
+          "combine"
+        ],
+        "illustrated_objects": "Star symbols as paragraph markers"
+      }
+    },
+    "text_heavy": {
+      "total_words": 15531,
+      "unique_words": 5156,
+      "top_30": [
+        {
+          "aiin": 275
+        },
+        {
+          "daiin": 213
+        },
+        {
+          "ar": 188
+        },
+        {
+          "qokeey": 184
+        },
+        {
+          "ol": 179
+        },
+        {
+          "al": 155
+        },
+        {
+          "chey": 151
+        },
+        {
+          "or": 149
+        },
+        {
+          "chedy": 145
+        },
+        {
+          "qokaiin": 141
+        },
+        {
+          "chol": 118
+        },
+        {
+          "okaiin": 107
+        },
+        {
+          "okeey": 107
+        },
+        {
+          "qokain": 106
+        },
+        {
+          "shey": 101
+        },
+        {
+          "cheol": 95
+        },
+        {
+          "cheey": 94
+        },
+        {
+          "otaiin": 92
+        },
+        {
+          "qokeedy": 90
+        },
+        {
+          "shedy": 88
+        },
+        {
+          "dar": 88
+        },
+        {
+          "otar": 76
+        },
+        {
+          "che@152;y": 75
+        },
+        {
+          "oteey": 75
+        },
+        {
+          "otal": 70
+        },
+        {
+          "sheey": 67
+        },
+        {
+          "qokar": 64
+        },
+        {
+          "ain": 64
+        },
+        {
+          "okain": 64
+        },
+        {
+          "otain": 62
+        }
+      ],
+      "prefix_distribution": {
+        "ch": 2538,
+        "qo": 2435,
+        "sh": 1114,
+        "ot": 1113,
+        "ok": 1020,
+        "ol": 607,
+        "da": 580
+      },
+      "suffix_distribution": {
+        "in": 2918,
+        "dy": 2068,
+        "ey": 1908,
+        "ar": 1277,
+        "ol": 1197,
+        "al": 875,
+        "or": 719,
+        "hy": 557,
+        "am": 370
+      },
+      "context": {
+        "description": "Pure text pages \u2014 core language",
+        "known_terms": [
+          "grammar",
+          "pronoun",
+          "verb",
+          "noun",
+          "connective",
+          "number"
+        ],
+        "illustrated_objects": "None \u2014 purely linguistic"
+      }
+    }
+  },
+  "sample_translations": {
+    "herbal_A": {
+      "original": "fachys.ykal.ar.taiin.shol.shory.ctos.y.kor.sholdy",
+      "analyzed": [
+        {
+          "word": "fachys",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "fachys",
+              "meaning": "[unknown: fachys]"
+            }
+          ],
+          "meaning": "[unknown: fachys]",
+          "section_hint": "herbal_A"
+        },
+        {
+          "word": "ykal",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "al",
+              "meaning": "ADJECTIVIZER \u2014 quality/state"
+            },
+            {
+              "type": "root",
+              "form": "yk",
+              "meaning": "[unknown: yk]"
+            }
+          ],
+          "meaning": "[ADJECTIVIZER \u2014 quality/state] [unknown: yk]",
+          "section_hint": "herbal_A"
+        },
+        {
+          "word": "ar",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "ar",
+              "meaning": "ABLATIVE \u2014 from/origin"
+            }
+          ],
+          "meaning": "ABLATIVE \u2014 from",
+          "section_hint": "herbal_A"
+        },
+        {
+          "word": "taiin",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "iin",
+              "meaning": "GENITIVE \u2014 of/possession"
+            },
+            {
+              "type": "root",
+              "form": "ta",
+              "meaning": "[unknown: ta]"
+            }
+          ],
+          "meaning": "[GENITIVE \u2014 of/possession] [unknown: ta]",
+          "section_hint": "herbal_A"
+        },
+        {
+          "word": "shol",
+          "morphemes": [],
+          "meaning": "LEAF/covering/surface",
+          "section_hint": "herbal_A",
+          "cross_ref": "PIE *\u1e31el- (hide/cover)"
+        },
+        {
+          "word": "shory",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "sh",
+              "meaning": "PLANT/natural/organic"
+            },
+            {
+              "type": "root",
+              "form": "ory",
+              "meaning": "[unknown: ory]"
+            }
+          ],
+          "meaning": "(PLANT/natural/organic) [unknown: ory]",
+          "section_hint": "herbal_A"
+        },
+        {
+          "word": "ctos",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "ctos",
+              "meaning": "[unknown: ctos]"
+            }
+          ],
+          "meaning": "[unknown: ctos]",
+          "section_hint": "herbal_A"
+        },
+        {
+          "word": "kor",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "kor",
+              "meaning": "[unknown: kor]"
+            }
+          ],
+          "meaning": "[unknown: kor]",
+          "section_hint": "herbal_A"
+        },
+        {
+          "word": "sholdy",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "sh",
+              "meaning": "PLANT/natural/organic"
+            },
+            {
+              "type": "suffix",
+              "form": "dy",
+              "meaning": "LOCATIVE \u2014 at/in/on (location)"
+            },
+            {
+              "type": "root",
+              "form": "ol",
+              "meaning": "PLURAL/collective"
+            }
+          ],
+          "meaning": "(PLANT/natural/organic) [LOCATIVE \u2014 at/in/on (location)] PLURAL",
+          "section_hint": "herbal_A"
+        }
+      ],
+      "translation": "fachys\u2192[unknown: fachys] | ykal\u2192[ADJECTIVIZER \u2014 quality/state] [unknown: yk] | ar\u2192ABLATIVE \u2014 from | taiin\u2192[GENITIVE \u2014 of/possession] [unknown: ta] | shol\u2192LEAF/covering/surface | shory\u2192(PLANT/natural/organic) [unknown: ory] | ctos\u2192[unknown: ctos] | kor\u2192[unknown: kor] | sholdy\u2192(PLANT/natural/organic) [LOCATIVE \u2014 at/in/on (location)] PLURAL"
+    },
+    "herbal_B": {
+      "original": "daiin.shaiin.qoy.s.shol.fodan.yksh.olsheey.daiildy",
+      "analyzed": [
+        {
+          "word": "daiin",
+          "morphemes": [],
+          "meaning": "LIVING BEING/person",
+          "section_hint": "herbal_B",
+          "cross_ref": "PIE *d\u02b0eh\u2081-yo-"
+        },
+        {
+          "word": "shaiin",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "sh",
+              "meaning": "PLANT/natural/organic"
+            },
+            {
+              "type": "suffix",
+              "form": "in",
+              "meaning": "DATIVE \u2014 to/for (recipient)"
+            },
+            {
+              "type": "root",
+              "form": "ai",
+              "meaning": "STAR/light/sky"
+            }
+          ],
+          "meaning": "(PLANT/natural/organic) [DATIVE \u2014 to/for (recipient)] STAR",
+          "section_hint": "herbal_B"
+        },
+        {
+          "word": "qoy",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "qoy",
+              "meaning": "[unknown: qoy]"
+            }
+          ],
+          "meaning": "[unknown: qoy]",
+          "section_hint": "herbal_B"
+        },
+        {
+          "word": "shol",
+          "morphemes": [],
+          "meaning": "LEAF/covering/surface",
+          "section_hint": "herbal_B",
+          "cross_ref": "PIE *\u1e31el- (hide/cover)"
+        },
+        {
+          "word": "fodan",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "fodan",
+              "meaning": "[unknown: fodan]"
+            }
+          ],
+          "meaning": "[unknown: fodan]",
+          "section_hint": "herbal_B"
+        },
+        {
+          "word": "yksh",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "yksh",
+              "meaning": "[unknown: yksh]"
+            }
+          ],
+          "meaning": "[unknown: yksh]",
+          "section_hint": "herbal_B"
+        },
+        {
+          "word": "olsheey",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "ol",
+              "meaning": "PLURAL/collective"
+            },
+            {
+              "type": "suffix",
+              "form": "eey",
+              "meaning": "INTENSIVE \u2014 much/greatly"
+            },
+            {
+              "type": "root",
+              "form": "sh",
+              "meaning": "PLANT/natural/organic"
+            }
+          ],
+          "meaning": "(PLURAL/collective) [INTENSIVE \u2014 much/greatly] PLANT",
+          "section_hint": "herbal_B"
+        },
+        {
+          "word": "daiildy",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "dai",
+              "meaning": "LIFE/breath/alive"
+            },
+            {
+              "type": "suffix",
+              "form": "dy",
+              "meaning": "LOCATIVE \u2014 at/in/on (location)"
+            },
+            {
+              "type": "root",
+              "form": "il",
+              "meaning": "[unknown: il]"
+            }
+          ],
+          "meaning": "(LIFE/breath/alive) [LOCATIVE \u2014 at/in/on (location)] [unknown: il]",
+          "section_hint": "herbal_B"
+        }
+      ],
+      "translation": "daiin\u2192LIVING BEING/person | shaiin\u2192(PLANT/natural/organic) [DATIVE \u2014 to/for (recipient)] STAR | qoy\u2192[unknown: qoy] | shol\u2192LEAF/covering/surface | fodan\u2192[unknown: fodan] | yksh\u2192[unknown: yksh] | olsheey\u2192(PLURAL/collective) [INTENSIVE \u2014 much/greatly] PLANT | daiildy\u2192(LIFE/breath/alive) [LOCATIVE \u2014 at/in/on (location)] [unknown: il]"
+    },
+    "herbal_C": {
+      "original": "kydainy.ypchol.daiin.otchal.ypchaiin.ckholsy",
+      "analyzed": [
+        {
+          "word": "kydainy",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "kydainy",
+              "meaning": "[unknown: kydainy]"
+            }
+          ],
+          "meaning": "[unknown: kydainy]",
+          "section_hint": "herbal_C"
+        },
+        {
+          "word": "ypchol",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "ol",
+              "meaning": "INSTRUMENTAL \u2014 by/with means"
+            },
+            {
+              "type": "root",
+              "form": "ypch",
+              "meaning": "[unknown: ypch]"
+            }
+          ],
+          "meaning": "[INSTRUMENTAL \u2014 by/with means] [unknown: ypch]",
+          "section_hint": "herbal_C"
+        },
+        {
+          "word": "daiin",
+          "morphemes": [],
+          "meaning": "LIVING BEING/person",
+          "section_hint": "herbal_C",
+          "cross_ref": "PIE *d\u02b0eh\u2081-yo-"
+        },
+        {
+          "word": "otchal",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "ot",
+              "meaning": "INSTRUMENT/tool/vessel"
+            },
+            {
+              "type": "suffix",
+              "form": "al",
+              "meaning": "ADJECTIVIZER \u2014 quality/state"
+            },
+            {
+              "type": "root",
+              "form": "ch",
+              "meaning": "ANIMATE \u2014 human/animal/agent"
+            }
+          ],
+          "meaning": "(INSTRUMENT/tool/vessel) [ADJECTIVIZER \u2014 quality/state] ANIMATE \u2014 human",
+          "section_hint": "herbal_C"
+        },
+        {
+          "word": "ypchaiin",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "iin",
+              "meaning": "GENITIVE \u2014 of/possession"
+            },
+            {
+              "type": "root",
+              "form": "ypcha",
+              "meaning": "[unknown: ypcha]"
+            }
+          ],
+          "meaning": "[GENITIVE \u2014 of/possession] [unknown: ypcha]",
+          "section_hint": "herbal_C"
+        },
+        {
+          "word": "ckholsy",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "ckholsy",
+              "meaning": "[unknown: ckholsy]"
+            }
+          ],
+          "meaning": "[unknown: ckholsy]",
+          "section_hint": "herbal_C"
+        }
+      ],
+      "translation": "kydainy\u2192[unknown: kydainy] | ypchol\u2192[INSTRUMENTAL \u2014 by/with means] [unknown: ypch] | daiin\u2192LIVING BEING/person | otchal\u2192(INSTRUMENT/tool/vessel) [ADJECTIVIZER \u2014 quality/state] ANIMATE \u2014 human | ypchaiin\u2192[GENITIVE \u2014 of/possession] [unknown: ypcha] | ckholsy\u2192[unknown: ckholsy]"
+    },
+    "astronomical": {
+      "original": "koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly",
+      "analyzed": [
+        {
+          "word": "koaiin",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "iin",
+              "meaning": "GENITIVE \u2014 of/possession"
+            },
+            {
+              "type": "root",
+              "form": "koa",
+              "meaning": "[unknown: koa]"
+            }
+          ],
+          "meaning": "[GENITIVE \u2014 of/possession] [unknown: koa]",
+          "section_hint": "astronomical"
+        },
+        {
+          "word": "cphor",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "or",
+              "meaning": "ERGATIVE \u2014 agent/subject marker"
+            },
+            {
+              "type": "root",
+              "form": "cph",
+              "meaning": "[unknown: cph]"
+            }
+          ],
+          "meaning": "[ERGATIVE \u2014 agent/subject marker] [unknown: cph]",
+          "section_hint": "astronomical"
+        },
+        {
+          "word": "qotoy",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "qot",
+              "meaning": "CELESTIAL/sky-moon"
+            },
+            {
+              "type": "root",
+              "form": "oy",
+              "meaning": "[unknown: oy]"
+            }
+          ],
+          "meaning": "(CELESTIAL/sky-moon) [unknown: oy]",
+          "section_hint": "astronomical"
+        },
+        {
+          "word": "sha",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "sha",
+              "meaning": "[unknown: sha]"
+            }
+          ],
+          "meaning": "[unknown: sha]",
+          "section_hint": "astronomical"
+        },
+        {
+          "word": "ckhol",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "ol",
+              "meaning": "INSTRUMENTAL \u2014 by/with means"
+            },
+            {
+              "type": "root",
+              "form": "ckh",
+              "meaning": "[unknown: ckh]"
+            }
+          ],
+          "meaning": "[INSTRUMENTAL \u2014 by/with means] [unknown: ckh]",
+          "section_hint": "astronomical"
+        },
+        {
+          "word": "ykoaiin",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "iin",
+              "meaning": "GENITIVE \u2014 of/possession"
+            },
+            {
+              "type": "root",
+              "form": "ykoa",
+              "meaning": "[unknown: ykoa]"
+            }
+          ],
+          "meaning": "[GENITIVE \u2014 of/possession] [unknown: ykoa]",
+          "section_hint": "astronomical"
+        },
+        {
+          "word": "oly",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "oly",
+              "meaning": "[unknown: oly]"
+            }
+          ],
+          "meaning": "[unknown: oly]",
+          "section_hint": "astronomical"
+        }
+      ],
+      "translation": "koaiin\u2192[GENITIVE \u2014 of/possession] [unknown: koa] | cphor\u2192[ERGATIVE \u2014 agent/subject marker] [unknown: cph] | qotoy\u2192(CELESTIAL/sky-moon) [unknown: oy] | sha\u2192[unknown: sha] | ckhol\u2192[INSTRUMENTAL \u2014 by/with means] [unknown: ckh] | ykoaiin\u2192[GENITIVE \u2014 of/possession] [unknown: ykoa] | oly\u2192[unknown: oly]"
+    },
+    "balneological": {
+      "original": "pol.shy.shey.tchody.qopchy.otshol.dy.daiin.tshodody",
+      "analyzed": [
+        {
+          "word": "pol",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "pol",
+              "meaning": "[unknown: pol]"
+            }
+          ],
+          "meaning": "[unknown: pol]",
+          "section_hint": "balneological"
+        },
+        {
+          "word": "shy",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "shy",
+              "meaning": "[unknown: shy]"
+            }
+          ],
+          "meaning": "[unknown: shy]",
+          "section_hint": "balneological"
+        },
+        {
+          "word": "shey",
+          "morphemes": [],
+          "meaning": "PLANT/grow/green",
+          "section_hint": "balneological",
+          "cross_ref": "PIE *d\u02b0ewh\u2082-"
+        },
+        {
+          "word": "tchody",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "ody",
+              "meaning": "DURATIVE \u2014 ongoing/continuous"
+            },
+            {
+              "type": "root",
+              "form": "tch",
+              "meaning": "[unknown: tch]"
+            }
+          ],
+          "meaning": "[DURATIVE \u2014 ongoing/continuous] [unknown: tch]",
+          "section_hint": "balneological"
+        },
+        {
+          "word": "qopchy",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "qo",
+              "meaning": "CELESTIAL/abstract/spatial"
+            },
+            {
+              "type": "suffix",
+              "form": "hy",
+              "meaning": "COMITATIVE \u2014 with/accompaniment"
+            },
+            {
+              "type": "root",
+              "form": "pc",
+              "meaning": "[unknown: pc]"
+            }
+          ],
+          "meaning": "(CELESTIAL/abstract/spatial) [COMITATIVE \u2014 with/accompaniment] [unknown: pc]",
+          "section_hint": "balneological"
+        },
+        {
+          "word": "otshol",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "ot",
+              "meaning": "INSTRUMENT/tool/vessel"
+            },
+            {
+              "type": "suffix",
+              "form": "ol",
+              "meaning": "INSTRUMENTAL \u2014 by/with means"
+            },
+            {
+              "type": "root",
+              "form": "sh",
+              "meaning": "PLANT/natural/organic"
+            }
+          ],
+          "meaning": "(INSTRUMENT/tool/vessel) [INSTRUMENTAL \u2014 by/with means] PLANT",
+          "section_hint": "balneological"
+        },
+        {
+          "word": "dy",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "dy",
+              "meaning": "LOCATIVE \u2014 at/in/on (location)"
+            }
+          ],
+          "meaning": "LOCATIVE \u2014 at",
+          "section_hint": "balneological"
+        },
+        {
+          "word": "daiin",
+          "morphemes": [],
+          "meaning": "LIVING BEING/person",
+          "section_hint": "balneological",
+          "cross_ref": "PIE *d\u02b0eh\u2081-yo-"
+        },
+        {
+          "word": "tshodody",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "ody",
+              "meaning": "DURATIVE \u2014 ongoing/continuous"
+            },
+            {
+              "type": "root",
+              "form": "tshod",
+              "meaning": "[unknown: tshod]"
+            }
+          ],
+          "meaning": "[DURATIVE \u2014 ongoing/continuous] [unknown: tshod]",
+          "section_hint": "balneological"
+        }
+      ],
+      "translation": "pol\u2192[unknown: pol] | shy\u2192[unknown: shy] | shey\u2192PLANT/grow/green | tchody\u2192[DURATIVE \u2014 ongoing/continuous] [unknown: tch] | qopchy\u2192(CELESTIAL/abstract/spatial) [COMITATIVE \u2014 with/accompaniment] [unknown: pc] | otshol\u2192(INSTRUMENT/tool/vessel) [INSTRUMENTAL \u2014 by/with means] PLANT | dy\u2192LOCATIVE \u2014 at | daiin\u2192LIVING BEING/person | tshodody\u2192[DURATIVE \u2014 ongoing/continuous] [unknown: tshod]"
+    },
+    "pharmaceutical": {
+      "original": "pcheol.chol.sols.sheol.shey.ok.daiin.qokchor",
+      "analyzed": [
+        {
+          "word": "pcheol",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "ol",
+              "meaning": "INSTRUMENTAL \u2014 by/with means"
+            },
+            {
+              "type": "root",
+              "form": "pche",
+              "meaning": "[unknown: pche]"
+            }
+          ],
+          "meaning": "[INSTRUMENTAL \u2014 by/with means] [unknown: pche]",
+          "section_hint": "pharmaceutical"
+        },
+        {
+          "word": "chol",
+          "morphemes": [],
+          "meaning": "FIRE/burn/heat",
+          "section_hint": "pharmaceutical",
+          "cross_ref": "PIE *g\u02b7\u02b0er-"
+        },
+        {
+          "word": "sols",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "sols",
+              "meaning": "[unknown: sols]"
+            }
+          ],
+          "meaning": "[unknown: sols]",
+          "section_hint": "pharmaceutical"
+        },
+        {
+          "word": "sheol",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "she",
+              "meaning": "PLANT-specific/leaf"
+            },
+            {
+              "type": "root",
+              "form": "ol",
+              "meaning": "PLURAL/collective"
+            }
+          ],
+          "meaning": "(PLANT-specific/leaf) PLURAL",
+          "section_hint": "pharmaceutical"
+        },
+        {
+          "word": "shey",
+          "morphemes": [],
+          "meaning": "PLANT/grow/green",
+          "section_hint": "pharmaceutical",
+          "cross_ref": "PIE *d\u02b0ewh\u2082-"
+        },
+        {
+          "word": "ok",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "ok",
+              "meaning": "DIRECTIONAL/locative"
+            }
+          ],
+          "meaning": "DIRECTIONAL",
+          "section_hint": "pharmaceutical"
+        },
+        {
+          "word": "daiin",
+          "morphemes": [],
+          "meaning": "LIVING BEING/person",
+          "section_hint": "pharmaceutical",
+          "cross_ref": "PIE *d\u02b0eh\u2081-yo-"
+        },
+        {
+          "word": "qokchor",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "qok",
+              "meaning": "FUTURE/irrealis verb mode"
+            },
+            {
+              "type": "suffix",
+              "form": "or",
+              "meaning": "ERGATIVE \u2014 agent/subject marker"
+            },
+            {
+              "type": "root",
+              "form": "ch",
+              "meaning": "ANIMATE \u2014 human/animal/agent"
+            }
+          ],
+          "meaning": "(FUTURE/irrealis verb mode) [ERGATIVE \u2014 agent/subject marker] ANIMATE \u2014 human",
+          "section_hint": "pharmaceutical"
+        }
+      ],
+      "translation": "pcheol\u2192[INSTRUMENTAL \u2014 by/with means] [unknown: pche] | chol\u2192FIRE/burn/heat | sols\u2192[unknown: sols] | sheol\u2192(PLANT-specific/leaf) PLURAL | shey\u2192PLANT/grow/green | ok\u2192DIRECTIONAL | daiin\u2192LIVING BEING/person | qokchor\u2192(FUTURE/irrealis verb mode) [ERGATIVE \u2014 agent/subject marker] ANIMATE \u2014 human"
+    },
+    "recipes": {
+      "original": "pcheoldom.shodaiin.qopchor.qopol.opcholqoty",
+      "analyzed": [
+        {
+          "word": "pcheoldom",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "pcheoldom",
+              "meaning": "[unknown: pcheoldom]"
+            }
+          ],
+          "meaning": "[unknown: pcheoldom]",
+          "section_hint": "recipes"
+        },
+        {
+          "word": "shodaiin",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "sh",
+              "meaning": "PLANT/natural/organic"
+            },
+            {
+              "type": "suffix",
+              "form": "iin",
+              "meaning": "GENITIVE \u2014 of/possession"
+            },
+            {
+              "type": "root",
+              "form": "oda",
+              "meaning": "[unknown: oda]"
+            }
+          ],
+          "meaning": "(PLANT/natural/organic) [GENITIVE \u2014 of/possession] [unknown: oda]",
+          "section_hint": "recipes"
+        },
+        {
+          "word": "qopchor",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "qo",
+              "meaning": "CELESTIAL/abstract/spatial"
+            },
+            {
+              "type": "suffix",
+              "form": "or",
+              "meaning": "ERGATIVE \u2014 agent/subject marker"
+            },
+            {
+              "type": "root",
+              "form": "pch",
+              "meaning": "[unknown: pch]"
+            }
+          ],
+          "meaning": "(CELESTIAL/abstract/spatial) [ERGATIVE \u2014 agent/subject marker] [unknown: pch]",
+          "section_hint": "recipes"
+        },
+        {
+          "word": "qopol",
+          "morphemes": [
+            {
+              "type": "prefix",
+              "form": "qo",
+              "meaning": "CELESTIAL/abstract/spatial"
+            },
+            {
+              "type": "root",
+              "form": "pol",
+              "meaning": "[unknown: pol]"
+            }
+          ],
+          "meaning": "(CELESTIAL/abstract/spatial) [unknown: pol]",
+          "section_hint": "recipes"
+        },
+        {
+          "word": "opcholqoty",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "opcholqoty",
+              "meaning": "[unknown: opcholqoty]"
+            }
+          ],
+          "meaning": "[unknown: opcholqoty]",
+          "section_hint": "recipes"
+        }
+      ],
+      "translation": "pcheoldom\u2192[unknown: pcheoldom] | shodaiin\u2192(PLANT/natural/organic) [GENITIVE \u2014 of/possession] [unknown: oda] | qopchor\u2192(CELESTIAL/abstract/spatial) [ERGATIVE \u2014 agent/subject marker] [unknown: pch] | qopol\u2192(CELESTIAL/abstract/spatial) [unknown: pol] | opcholqoty\u2192[unknown: opcholqoty]"
+    },
+    "text_heavy": {
+      "original": "daiin.ckhochy.tchy.kor.aiin.daiin.shol.shol.chol.shol",
+      "analyzed": [
+        {
+          "word": "daiin",
+          "morphemes": [],
+          "meaning": "LIVING BEING/person",
+          "section_hint": "text_heavy",
+          "cross_ref": "PIE *d\u02b0eh\u2081-yo-"
+        },
+        {
+          "word": "ckhochy",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "chy",
+              "meaning": "DIMINUTIVE \u2014 small/little"
+            },
+            {
+              "type": "root",
+              "form": "ckho",
+              "meaning": "[unknown: ckho]"
+            }
+          ],
+          "meaning": "[DIMINUTIVE \u2014 small/little] [unknown: ckho]",
+          "section_hint": "text_heavy"
+        },
+        {
+          "word": "tchy",
+          "morphemes": [
+            {
+              "type": "suffix",
+              "form": "hy",
+              "meaning": "COMITATIVE \u2014 with/accompaniment"
+            },
+            {
+              "type": "root",
+              "form": "tc",
+              "meaning": "[unknown: tc]"
+            }
+          ],
+          "meaning": "[COMITATIVE \u2014 with/accompaniment] [unknown: tc]",
+          "section_hint": "text_heavy"
+        },
+        {
+          "word": "kor",
+          "morphemes": [
+            {
+              "type": "root",
+              "form": "kor",
+              "meaning": "[unknown: kor]"
+            }
+          ],
+          "meaning": "[unknown: kor]",
+          "section_hint": "text_heavy"
+        },
+        {
+          "word": "aiin",
+          "morphemes": [],
+          "meaning": "STARLIGHT/celestial fire",
+          "section_hint": "text_heavy",
+          "cross_ref": "PIE *h\u2082ster-yo-"
+        },
+        {
+          "word": "daiin",
+          "morphemes": [],
+          "meaning": "LIVING BEING/person",
+          "section_hint": "text_heavy",
+          "cross_ref": "PIE *d\u02b0eh\u2081-yo-"
+        },
+        {
+          "word": "shol",
+          "morphemes": [],
+          "meaning": "LEAF/covering/surface",
+          "section_hint": "text_heavy",
+          "cross_ref": "PIE *\u1e31el- (hide/cover)"
+        },
+        {
+          "word": "shol",
+          "morphemes": [],
+          "meaning": "LEAF/covering/surface",
+          "section_hint": "text_heavy",
+          "cross_ref": "PIE *\u1e31el- (hide/cover)"
+        },
+        {
+          "word": "chol",
+          "morphemes": [],
+          "meaning": "FIRE/burn/heat",
+          "section_hint": "text_heavy",
+          "cross_ref": "PIE *g\u02b7\u02b0er-"
+        },
+        {
+          "word": "shol",
+          "morphemes": [],
+          "meaning": "LEAF/covering/surface",
+          "section_hint": "text_heavy",
+          "cross_ref": "PIE *\u1e31el- (hide/cover)"
+        }
+      ],
+      "translation": "daiin\u2192LIVING BEING/person | ckhochy\u2192[DIMINUTIVE \u2014 small/little] [unknown: ckho] | tchy\u2192[COMITATIVE \u2014 with/accompaniment] [unknown: tc] | kor\u2192[unknown: kor] | aiin\u2192STARLIGHT/celestial fire | daiin\u2192LIVING BEING/person | shol\u2192LEAF/covering/surface | shol\u2192LEAF/covering/surface | chol\u2192FIRE/burn/heat | shol\u2192LEAF/covering/surface"
+    }
+  },
+  "grammar_summary": {
+    "word_order": "SOV (Subject-Object-Verb)",
+    "morphology": "Agglutinative (3.9 morphemes/word avg)",
+    "noun_classes": 5,
+    "verb_modes": 3,
+    "tense_system": "Past/Present/Future (-yk / \u2205 / -qok)",
+    "voice": "Active/Passive/Causative"
+  }
+}
