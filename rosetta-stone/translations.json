@@ -1,0 +1,2418 @@
+{
+  "f1r": {
+    "description": "Herbal A (opening page)",
+    "lines": [
+      "",
+      "fachys.ykal.ar.@221;taiin.shol.shory.{cto}ses.y.kor.sholdy",
+      "sory.ckhar.ory.kair.chtaiin.shar.@221;is.cthar.cthar.dan",
+      "syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy",
+      "soiin.oteey.oteor.roloty.{ct}@221;ar.daiin.okaiin.or.okan"
+    ],
+    "translation": [
+      {
+        "word": "fachys",
+        "prefix": null,
+        "root": {
+          "form": "fachys",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "ykal",
+        "prefix": {
+          "form": "yk",
+          "gloss": "PAST",
+          "meaning": "past tense"
+        },
+        "root": {
+          "form": "al",
+          "gloss": "ADJ",
+          "meaning": "adjectivizer — quality/state"
+        },
+        "suffix": null,
+        "gloss": "PAST-ADJ",
+        "ipaclass": ""
+      },
+      {
+        "word": "ar",
+        "prefix": null,
+        "root": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "suffix": null,
+        "gloss": "ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "@221;taiin",
+        "prefix": null,
+        "root": {
+          "form": "@221;ta",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "iin",
+          "gloss": "GEN",
+          "meaning": "of/possession (genitive)"
+        },
+        "gloss": "???-GEN",
+        "ipaclass": ""
+      },
+      {
+        "word": "shol",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": null,
+        "gloss": "PLANT-PL",
+        "ipaclass": ""
+      },
+      {
+        "word": "shory",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ory",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PLANT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "{cto}ses",
+        "prefix": null,
+        "root": {
+          "form": "{cto}ses",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "kor",
+        "prefix": null,
+        "root": {
+          "form": "kor",
+          "gloss": "CORE",
+          "meaning": "core/center/heart"
+        },
+        "suffix": null,
+        "gloss": "CORE",
+        "ipaclass": ""
+      },
+      {
+        "word": "sholdy",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": {
+          "form": "dy",
+          "gloss": "LOC",
+          "meaning": "at/in/on (locative)"
+        },
+        "gloss": "PLANT-PL-LOC",
+        "ipaclass": ""
+      },
+      {
+        "word": "sory",
+        "prefix": null,
+        "root": {
+          "form": "sory",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "ckhar",
+        "prefix": null,
+        "root": {
+          "form": "ckh",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "???-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "ory",
+        "prefix": null,
+        "root": {
+          "form": "ory",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "kair",
+        "prefix": null,
+        "root": {
+          "form": "kair",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "chtaiin",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "ta",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "iin",
+          "gloss": "GEN",
+          "meaning": "of/possession (genitive)"
+        },
+        "gloss": "ANIMATE-???-GEN",
+        "ipaclass": ""
+      },
+      {
+        "word": "shar",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "suffix": null,
+        "gloss": "PLANT-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "@221;is",
+        "prefix": null,
+        "root": {
+          "form": "@221;is",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "cthar",
+        "prefix": null,
+        "root": {
+          "form": "cth",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "???-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "cthar",
+        "prefix": null,
+        "root": {
+          "form": "cth",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "???-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "dan",
+        "prefix": null,
+        "root": {
+          "form": "dan",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "syaiir",
+        "prefix": null,
+        "root": {
+          "form": "syaiir",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "sheky",
+        "prefix": {
+          "form": "she",
+          "gloss": "LEAF",
+          "meaning": "plant-specific/leaf/blade"
+        },
+        "root": {
+          "form": "ky",
+          "gloss": "SELF",
+          "meaning": "self/own/personal"
+        },
+        "suffix": null,
+        "gloss": "LEAF-SELF",
+        "ipaclass": ""
+      },
+      {
+        "word": "or",
+        "prefix": null,
+        "root": {
+          "form": "or",
+          "gloss": "ERG",
+          "meaning": "ergative — agent/subject"
+        },
+        "suffix": null,
+        "gloss": "ERG",
+        "ipaclass": ""
+      },
+      {
+        "word": "ykaiin",
+        "prefix": {
+          "form": "yk",
+          "gloss": "PAST",
+          "meaning": "past tense"
+        },
+        "root": {
+          "form": "ai",
+          "gloss": "STAR",
+          "meaning": "star/light/sky"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "PAST-STAR-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "shod",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "od",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PLANT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "cthoary",
+        "prefix": null,
+        "root": {
+          "form": "cthoary",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "cthes",
+        "prefix": null,
+        "root": {
+          "form": "cthes",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "daraiin",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "ra",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "iin",
+          "gloss": "GEN",
+          "meaning": "of/possession (genitive)"
+        },
+        "gloss": "EXIST-???-GEN",
+        "ipaclass": ""
+      },
+      {
+        "word": "sy",
+        "prefix": null,
+        "root": {
+          "form": "sy",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "soiin",
+        "prefix": null,
+        "root": {
+          "form": "so",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "iin",
+          "gloss": "GEN",
+          "meaning": "of/possession (genitive)"
+        },
+        "gloss": "???-GEN",
+        "ipaclass": ""
+      },
+      {
+        "word": "oteey",
+        "prefix": {
+          "form": "ote",
+          "gloss": "FIRE",
+          "meaning": "fire/heat/thermal"
+        },
+        "root": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "suffix": null,
+        "gloss": "FIRE-ACC",
+        "ipaclass": ""
+      }
+    ]
+  },
+  "f39r": {
+    "description": "Astronomical (Aries)",
+    "lines": [
+      "",
+      "te@152;ochshd.cphhofy.chdain.shey.fshydy.orain.cheepaiin.ofy.shey.kaly.dy",
+      "olchey.cheky.qokedy.shekshey.qolain.ch{ckh'h}y.ch@152;y.dair.shckhey.@152;old",
+      "qokalch@152;y.chekaiin.checkh@222;.darshe@152;.qokeedar.eee@152;y.dar.ar.cheey.@152;yckhy",
+      "tche@152;y.chdy.olaiin.che@152;y.shckhdchy.chol.or.ordy.chees.aly.okalcheg"
+    ],
+    "translation": [
+      {
+        "word": "te@152;ochshd",
+        "prefix": null,
+        "root": {
+          "form": "te@152;ochshd",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "cphhofy",
+        "prefix": null,
+        "root": {
+          "form": "cphhofy",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "chdain",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "ANIMATE-EXIST-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "shey",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "suffix": null,
+        "gloss": "PLANT-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "fshydy",
+        "prefix": null,
+        "root": {
+          "form": "fshy",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "dy",
+          "gloss": "LOC",
+          "meaning": "at/in/on (locative)"
+        },
+        "gloss": "???-LOC",
+        "ipaclass": ""
+      },
+      {
+        "word": "orain",
+        "prefix": null,
+        "root": {
+          "form": "or",
+          "gloss": "ERG",
+          "meaning": "ergative — agent/subject"
+        },
+        "suffix": {
+          "form": "ain",
+          "gloss": "RES",
+          "meaning": "resultative — completed action"
+        },
+        "gloss": "ERG-RES",
+        "ipaclass": ""
+      },
+      {
+        "word": "cheepaiin",
+        "prefix": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "root": {
+          "form": "epa",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "iin",
+          "gloss": "GEN",
+          "meaning": "of/possession (genitive)"
+        },
+        "gloss": "ACT-???-GEN",
+        "ipaclass": ""
+      },
+      {
+        "word": "ofy",
+        "prefix": null,
+        "root": {
+          "form": "ofy",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "shey",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "suffix": null,
+        "gloss": "PLANT-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "kaly",
+        "prefix": null,
+        "root": {
+          "form": "kaly",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dy",
+        "prefix": null,
+        "root": {
+          "form": "dy",
+          "gloss": "LOC",
+          "meaning": "at/in/on (locative)"
+        },
+        "suffix": null,
+        "gloss": "LOC",
+        "ipaclass": ""
+      },
+      {
+        "word": "olchey",
+        "prefix": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "root": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "suffix": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "gloss": "PL-ANIMATE-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "cheky",
+        "prefix": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "root": {
+          "form": "ky",
+          "gloss": "SELF",
+          "meaning": "self/own/personal"
+        },
+        "suffix": null,
+        "gloss": "ACT-SELF",
+        "ipaclass": ""
+      },
+      {
+        "word": "qokedy",
+        "prefix": {
+          "form": "qok",
+          "gloss": "FUT",
+          "meaning": "future/irrealis verb mode"
+        },
+        "root": {
+          "form": "edy",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "FUT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "shekshey",
+        "prefix": {
+          "form": "she",
+          "gloss": "LEAF",
+          "meaning": "plant-specific/leaf/blade"
+        },
+        "root": {
+          "form": "ks",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "hey",
+          "gloss": "AUG",
+          "meaning": "augmentative — large/great"
+        },
+        "gloss": "LEAF-???-AUG",
+        "ipaclass": ""
+      },
+      {
+        "word": "qolain",
+        "prefix": {
+          "form": "qo",
+          "gloss": "CELESTIAL",
+          "meaning": "sky/star/abstract/spatial"
+        },
+        "root": {
+          "form": "la",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "CELESTIAL-???-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "ch{ckh'h}y",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "{ckh'h}y",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "ch@152;y",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "@152;y",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dair",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "ir",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "EXIST-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "shckhey",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ck",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "hey",
+          "gloss": "AUG",
+          "meaning": "augmentative — large/great"
+        },
+        "gloss": "PLANT-???-AUG",
+        "ipaclass": ""
+      },
+      {
+        "word": "@152;old",
+        "prefix": null,
+        "root": {
+          "form": "@152;old",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "qokalch@152;y",
+        "prefix": {
+          "form": "qok",
+          "gloss": "FUT",
+          "meaning": "future/irrealis verb mode"
+        },
+        "root": {
+          "form": "alch@152;y",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "FUT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "chekaiin",
+        "prefix": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "root": {
+          "form": "ka",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "iin",
+          "gloss": "GEN",
+          "meaning": "of/possession (genitive)"
+        },
+        "gloss": "ACT-???-GEN",
+        "ipaclass": ""
+      },
+      {
+        "word": "checkh@222;",
+        "prefix": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "root": {
+          "form": "ckh@222;",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "ACT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "darshe@152;",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "rshe@152;",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "EXIST-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "qokeedar",
+        "prefix": {
+          "form": "qok",
+          "gloss": "FUT",
+          "meaning": "future/irrealis verb mode"
+        },
+        "root": {
+          "form": "eed",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "FUT-???-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "eee@152;y",
+        "prefix": null,
+        "root": {
+          "form": "eee@152;y",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dar",
+        "prefix": null,
+        "root": {
+          "form": "dar",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "ar",
+        "prefix": null,
+        "root": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "suffix": null,
+        "gloss": "ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "cheey",
+        "prefix": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "root": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "suffix": null,
+        "gloss": "ACT-ACC",
+        "ipaclass": ""
+      }
+    ]
+  },
+  "f47r": {
+    "description": "Balneological (nymphs)",
+    "lines": [
+      "",
+      "pchair.oly.sheaiin.shol.daiin.chdy",
+      "chokchol.chol.choldy.dair.chad.aiin",
+      "dor.chol.chy.chaiin.ckhey.chol.dain.okaiin",
+      "qokcheo.cthey.chokain.chol.daiin.kchdal"
+    ],
+    "translation": [
+      {
+        "word": "pchair",
+        "prefix": null,
+        "root": {
+          "form": "pchair",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "oly",
+        "prefix": null,
+        "root": {
+          "form": "oly",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "sheaiin",
+        "prefix": {
+          "form": "she",
+          "gloss": "LEAF",
+          "meaning": "plant-specific/leaf/blade"
+        },
+        "root": {
+          "form": "ai",
+          "gloss": "STAR",
+          "meaning": "star/light/sky"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "LEAF-STAR-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "shol",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": null,
+        "gloss": "PLANT-PL",
+        "ipaclass": ""
+      },
+      {
+        "word": "daiin",
+        "prefix": {
+          "form": "dai",
+          "gloss": "LIVE",
+          "meaning": "life/breath/alive"
+        },
+        "root": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "suffix": null,
+        "gloss": "LIVE-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "chdy",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "dy",
+          "gloss": "LOC",
+          "meaning": "at/in/on (locative)"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-LOC",
+        "ipaclass": ""
+      },
+      {
+        "word": "chokchol",
+        "prefix": {
+          "form": "cho",
+          "gloss": "BODY",
+          "meaning": "body part/extremity"
+        },
+        "root": {
+          "form": "kch",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ol",
+          "gloss": "INS",
+          "meaning": "by/with means (instrumental)"
+        },
+        "gloss": "BODY-???-INS",
+        "ipaclass": ""
+      },
+      {
+        "word": "chol",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-PL",
+        "ipaclass": ""
+      },
+      {
+        "word": "choldy",
+        "prefix": {
+          "form": "cho",
+          "gloss": "BODY",
+          "meaning": "body part/extremity"
+        },
+        "root": {
+          "form": "ldy",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "BODY-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dair",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "ir",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "EXIST-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "chad",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "ad",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "aiin",
+        "prefix": null,
+        "root": {
+          "form": "ai",
+          "gloss": "STAR",
+          "meaning": "star/light/sky"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "STAR-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "dor",
+        "prefix": null,
+        "root": {
+          "form": "dor",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "chol",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-PL",
+        "ipaclass": ""
+      },
+      {
+        "word": "chy",
+        "prefix": null,
+        "root": {
+          "form": "chy",
+          "gloss": "DIM",
+          "meaning": "diminutive — small/little"
+        },
+        "suffix": null,
+        "gloss": "DIM",
+        "ipaclass": ""
+      },
+      {
+        "word": "chaiin",
+        "prefix": {
+          "form": "cha",
+          "gloss": "?",
+          "meaning": "?"
+        },
+        "root": {
+          "form": "iin",
+          "gloss": "GEN",
+          "meaning": "of/possession (genitive)"
+        },
+        "suffix": null,
+        "gloss": "?-GEN",
+        "ipaclass": ""
+      },
+      {
+        "word": "ckhey",
+        "prefix": null,
+        "root": {
+          "form": "ck",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "hey",
+          "gloss": "AUG",
+          "meaning": "augmentative — large/great"
+        },
+        "gloss": "???-AUG",
+        "ipaclass": ""
+      },
+      {
+        "word": "chol",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-PL",
+        "ipaclass": ""
+      },
+      {
+        "word": "dain",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "suffix": null,
+        "gloss": "EXIST-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "okaiin",
+        "prefix": {
+          "form": "ok",
+          "gloss": "DIR",
+          "meaning": "directional/locative"
+        },
+        "root": {
+          "form": "ai",
+          "gloss": "STAR",
+          "meaning": "star/light/sky"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "DIR-STAR-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "qokcheo",
+        "prefix": {
+          "form": "qok",
+          "gloss": "FUT",
+          "meaning": "future/irrealis verb mode"
+        },
+        "root": {
+          "form": "cheo",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "FUT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "cthey",
+        "prefix": null,
+        "root": {
+          "form": "ct",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "hey",
+          "gloss": "AUG",
+          "meaning": "augmentative — large/great"
+        },
+        "gloss": "???-AUG",
+        "ipaclass": ""
+      },
+      {
+        "word": "chokain",
+        "prefix": {
+          "form": "cho",
+          "gloss": "BODY",
+          "meaning": "body part/extremity"
+        },
+        "root": {
+          "form": "ka",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "BODY-???-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "chol",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-PL",
+        "ipaclass": ""
+      },
+      {
+        "word": "daiin",
+        "prefix": {
+          "form": "dai",
+          "gloss": "LIVE",
+          "meaning": "life/breath/alive"
+        },
+        "root": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "suffix": null,
+        "gloss": "LIVE-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "kchdal",
+        "prefix": null,
+        "root": {
+          "form": "kchd",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "al",
+          "gloss": "ADJ",
+          "meaning": "adjectivizer — quality/state"
+        },
+        "gloss": "???-ADJ",
+        "ipaclass": ""
+      },
+      {
+        "word": "dain",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "suffix": null,
+        "gloss": "EXIST-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "olshey",
+        "prefix": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "root": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "suffix": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "gloss": "PL-PLANT-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "chokolg",
+        "prefix": {
+          "form": "cho",
+          "gloss": "BODY",
+          "meaning": "body part/extremity"
+        },
+        "root": {
+          "form": "kolg",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "BODY-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "folr",
+        "prefix": null,
+        "root": {
+          "form": "folr",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      }
+    ]
+  },
+  "f58r": {
+    "description": "Pharmaceutical (vessels)",
+    "lines": [
+      "",
+      "@176;or.cholfy.shofchy.otoralchy.chofchol.sholy.otaly.dalm",
+      "dsho@152;al.or.ckhy.olchear.char.tal.ytal.ytar.olchotal",
+      "ykechod.dalaldam.ytam.choty.otchy.otaly.shoty.s",
+      "dshor.sholar.aiin.{ch'}alom.shaly.@152;alchy.oteom.@152;al.sholalam"
+    ],
+    "translation": [
+      {
+        "word": "@176;or",
+        "prefix": null,
+        "root": {
+          "form": "@176;",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "or",
+          "gloss": "ERG",
+          "meaning": "ergative — agent/subject"
+        },
+        "gloss": "???-ERG",
+        "ipaclass": ""
+      },
+      {
+        "word": "cholfy",
+        "prefix": {
+          "form": "cho",
+          "gloss": "BODY",
+          "meaning": "body part/extremity"
+        },
+        "root": {
+          "form": "lfy",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "BODY-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "shofchy",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "of",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "chy",
+          "gloss": "DIM",
+          "meaning": "diminutive — small/little"
+        },
+        "gloss": "PLANT-???-DIM",
+        "ipaclass": ""
+      },
+      {
+        "word": "otoralchy",
+        "prefix": {
+          "form": "ot",
+          "gloss": "INSTR",
+          "meaning": "instrument/tool/vessel"
+        },
+        "root": {
+          "form": "oral",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "chy",
+          "gloss": "DIM",
+          "meaning": "diminutive — small/little"
+        },
+        "gloss": "INSTR-???-DIM",
+        "ipaclass": ""
+      },
+      {
+        "word": "chofchol",
+        "prefix": {
+          "form": "cho",
+          "gloss": "BODY",
+          "meaning": "body part/extremity"
+        },
+        "root": {
+          "form": "fch",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ol",
+          "gloss": "INS",
+          "meaning": "by/with means (instrumental)"
+        },
+        "gloss": "BODY-???-INS",
+        "ipaclass": ""
+      },
+      {
+        "word": "sholy",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "oly",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PLANT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "otaly",
+        "prefix": {
+          "form": "ot",
+          "gloss": "INSTR",
+          "meaning": "instrument/tool/vessel"
+        },
+        "root": {
+          "form": "aly",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "INSTR-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dalm",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "lm",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "EXIST-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dsho@152;al",
+        "prefix": null,
+        "root": {
+          "form": "dsho@152;",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "al",
+          "gloss": "ADJ",
+          "meaning": "adjectivizer — quality/state"
+        },
+        "gloss": "???-ADJ",
+        "ipaclass": ""
+      },
+      {
+        "word": "or",
+        "prefix": null,
+        "root": {
+          "form": "or",
+          "gloss": "ERG",
+          "meaning": "ergative — agent/subject"
+        },
+        "suffix": null,
+        "gloss": "ERG",
+        "ipaclass": ""
+      },
+      {
+        "word": "ckhy",
+        "prefix": null,
+        "root": {
+          "form": "ck",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "hy",
+          "gloss": "COM",
+          "meaning": "with/accompaniment (comitative)"
+        },
+        "gloss": "???-COM",
+        "ipaclass": ""
+      },
+      {
+        "word": "olchear",
+        "prefix": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "root": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "PL-ACT-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "char",
+        "prefix": {
+          "form": "ch",
+          "gloss": "ANIMATE",
+          "meaning": "human/animal/agent"
+        },
+        "root": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "suffix": null,
+        "gloss": "ANIMATE-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "tal",
+        "prefix": null,
+        "root": {
+          "form": "tal",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "ytal",
+        "prefix": null,
+        "root": {
+          "form": "yt",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "al",
+          "gloss": "ADJ",
+          "meaning": "adjectivizer — quality/state"
+        },
+        "gloss": "???-ADJ",
+        "ipaclass": ""
+      },
+      {
+        "word": "ytar",
+        "prefix": null,
+        "root": {
+          "form": "yt",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "???-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "olchotal",
+        "prefix": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "root": {
+          "form": "chot",
+          "gloss": "END",
+          "meaning": "finish/end/complete"
+        },
+        "suffix": {
+          "form": "al",
+          "gloss": "ADJ",
+          "meaning": "adjectivizer — quality/state"
+        },
+        "gloss": "PL-END-ADJ",
+        "ipaclass": ""
+      },
+      {
+        "word": "ykechod",
+        "prefix": {
+          "form": "yk",
+          "gloss": "PAST",
+          "meaning": "past tense"
+        },
+        "root": {
+          "form": "echod",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PAST-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dalaldam",
+        "prefix": {
+          "form": "da",
+          "gloss": "EXIST",
+          "meaning": "existential/being/state"
+        },
+        "root": {
+          "form": "lald",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "am",
+          "gloss": "IMP",
+          "meaning": "imperative — command"
+        },
+        "gloss": "EXIST-???-IMP",
+        "ipaclass": ""
+      },
+      {
+        "word": "ytam",
+        "prefix": null,
+        "root": {
+          "form": "yt",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "am",
+          "gloss": "IMP",
+          "meaning": "imperative — command"
+        },
+        "gloss": "???-IMP",
+        "ipaclass": ""
+      },
+      {
+        "word": "choty",
+        "prefix": {
+          "form": "cho",
+          "gloss": "BODY",
+          "meaning": "body part/extremity"
+        },
+        "root": {
+          "form": "ty",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "BODY-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "otchy",
+        "prefix": {
+          "form": "ot",
+          "gloss": "INSTR",
+          "meaning": "instrument/tool/vessel"
+        },
+        "root": {
+          "form": "chy",
+          "gloss": "DIM",
+          "meaning": "diminutive — small/little"
+        },
+        "suffix": null,
+        "gloss": "INSTR-DIM",
+        "ipaclass": ""
+      },
+      {
+        "word": "otaly",
+        "prefix": {
+          "form": "ot",
+          "gloss": "INSTR",
+          "meaning": "instrument/tool/vessel"
+        },
+        "root": {
+          "form": "aly",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "INSTR-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "shoty",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "oty",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PLANT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dshor",
+        "prefix": null,
+        "root": {
+          "form": "dsh",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "or",
+          "gloss": "ERG",
+          "meaning": "ergative — agent/subject"
+        },
+        "gloss": "???-ERG",
+        "ipaclass": ""
+      },
+      {
+        "word": "sholar",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "PLANT-PL-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "aiin",
+        "prefix": null,
+        "root": {
+          "form": "ai",
+          "gloss": "STAR",
+          "meaning": "star/light/sky"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "STAR-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "{ch'}alom",
+        "prefix": null,
+        "root": {
+          "form": "{ch'}alom",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "shaly",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "aly",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PLANT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "@152;alchy",
+        "prefix": null,
+        "root": {
+          "form": "@152;al",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "chy",
+          "gloss": "DIM",
+          "meaning": "diminutive — small/little"
+        },
+        "gloss": "???-DIM",
+        "ipaclass": ""
+      }
+    ]
+  },
+  "f75r": {
+    "description": "Recipes (instructions)",
+    "lines": [
+      "",
+      "okeey.qokar.shykche@152;y.qotar.she@152;y",
+      "s{ch'}eol.qol{chh}dy.chedykar.chekeedy.ror",
+      "orchey.qey.kain.sheeky.ltain.olkar.or",
+      "ykeey.l{ch'}ey.kal.dy.shey.ok.{ch'}ey.qokeed@222;"
+    ],
+    "translation": [
+      {
+        "word": "okeey",
+        "prefix": {
+          "form": "oke",
+          "gloss": "WATER",
+          "meaning": "water/liquid/fluid"
+        },
+        "root": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "suffix": null,
+        "gloss": "WATER-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "qokar",
+        "prefix": {
+          "form": "qok",
+          "gloss": "FUT",
+          "meaning": "future/irrealis verb mode"
+        },
+        "root": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "suffix": null,
+        "gloss": "FUT-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "shykche@152;y",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ykche@152;y",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PLANT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "qotar",
+        "prefix": {
+          "form": "qot",
+          "gloss": "SKY",
+          "meaning": "celestial/sky-moon"
+        },
+        "root": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "suffix": null,
+        "gloss": "SKY-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "she@152;y",
+        "prefix": {
+          "form": "she",
+          "gloss": "LEAF",
+          "meaning": "plant-specific/leaf/blade"
+        },
+        "root": {
+          "form": "@152;y",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "LEAF-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "s{ch'}eol",
+        "prefix": null,
+        "root": {
+          "form": "s{ch'}e",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ol",
+          "gloss": "INS",
+          "meaning": "by/with means (instrumental)"
+        },
+        "gloss": "???-INS",
+        "ipaclass": ""
+      },
+      {
+        "word": "qol{chh}dy",
+        "prefix": {
+          "form": "qo",
+          "gloss": "CELESTIAL",
+          "meaning": "sky/star/abstract/spatial"
+        },
+        "root": {
+          "form": "l{chh}",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "dy",
+          "gloss": "LOC",
+          "meaning": "at/in/on (locative)"
+        },
+        "gloss": "CELESTIAL-???-LOC",
+        "ipaclass": ""
+      },
+      {
+        "word": "chedykar",
+        "prefix": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "root": {
+          "form": "dyk",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ar",
+          "gloss": "ABL",
+          "meaning": "from/origin (ablative)"
+        },
+        "gloss": "ACT-???-ABL",
+        "ipaclass": ""
+      },
+      {
+        "word": "chekeedy",
+        "prefix": {
+          "form": "che",
+          "gloss": "ACT",
+          "meaning": "action/verb marker"
+        },
+        "root": {
+          "form": "ke",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "edy",
+          "gloss": "?",
+          "meaning": "?"
+        },
+        "gloss": "ACT-???-?",
+        "ipaclass": ""
+      },
+      {
+        "word": "ror",
+        "prefix": null,
+        "root": {
+          "form": "ror",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "orchey",
+        "prefix": null,
+        "root": {
+          "form": "orc",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "hey",
+          "gloss": "AUG",
+          "meaning": "augmentative — large/great"
+        },
+        "gloss": "???-AUG",
+        "ipaclass": ""
+      },
+      {
+        "word": "qey",
+        "prefix": null,
+        "root": {
+          "form": "qey",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "kain",
+        "prefix": null,
+        "root": {
+          "form": "ka",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "in",
+          "gloss": "DAT",
+          "meaning": "to/for (dative)"
+        },
+        "gloss": "???-DAT",
+        "ipaclass": ""
+      },
+      {
+        "word": "sheeky",
+        "prefix": {
+          "form": "she",
+          "gloss": "LEAF",
+          "meaning": "plant-specific/leaf/blade"
+        },
+        "root": {
+          "form": "eky",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "LEAF-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "ltain",
+        "prefix": null,
+        "root": {
+          "form": "lt",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ain",
+          "gloss": "RES",
+          "meaning": "resultative — completed action"
+        },
+        "gloss": "???-RES",
+        "ipaclass": ""
+      },
+      {
+        "word": "olkar",
+        "prefix": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "root": {
+          "form": "kar",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "PL-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "or",
+        "prefix": null,
+        "root": {
+          "form": "or",
+          "gloss": "ERG",
+          "meaning": "ergative — agent/subject"
+        },
+        "suffix": null,
+        "gloss": "ERG",
+        "ipaclass": ""
+      },
+      {
+        "word": "ykeey",
+        "prefix": {
+          "form": "yk",
+          "gloss": "PAST",
+          "meaning": "past tense"
+        },
+        "root": {
+          "form": "eey",
+          "gloss": "INTS",
+          "meaning": "intensive — much/greatly"
+        },
+        "suffix": null,
+        "gloss": "PAST-INTS",
+        "ipaclass": ""
+      },
+      {
+        "word": "l{ch'}ey",
+        "prefix": null,
+        "root": {
+          "form": "l{ch'}",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "gloss": "???-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "kal",
+        "prefix": null,
+        "root": {
+          "form": "kal",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "???",
+        "ipaclass": ""
+      },
+      {
+        "word": "dy",
+        "prefix": null,
+        "root": {
+          "form": "dy",
+          "gloss": "LOC",
+          "meaning": "at/in/on (locative)"
+        },
+        "suffix": null,
+        "gloss": "LOC",
+        "ipaclass": ""
+      },
+      {
+        "word": "shey",
+        "prefix": {
+          "form": "sh",
+          "gloss": "PLANT",
+          "meaning": "plant/natural/organic"
+        },
+        "root": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "suffix": null,
+        "gloss": "PLANT-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "ok",
+        "prefix": null,
+        "root": {
+          "form": "ok",
+          "gloss": "DIR",
+          "meaning": "directional/locative"
+        },
+        "suffix": null,
+        "gloss": "DIR",
+        "ipaclass": ""
+      },
+      {
+        "word": "{ch'}ey",
+        "prefix": null,
+        "root": {
+          "form": "{ch'}",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "ey",
+          "gloss": "ACC",
+          "meaning": "direct object (accusative)"
+        },
+        "gloss": "???-ACC",
+        "ipaclass": ""
+      },
+      {
+        "word": "qokeed@222;",
+        "prefix": {
+          "form": "qok",
+          "gloss": "FUT",
+          "meaning": "future/irrealis verb mode"
+        },
+        "root": {
+          "form": "eed@222;",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": null,
+        "gloss": "FUT-???",
+        "ipaclass": ""
+      },
+      {
+        "word": "ckhey",
+        "prefix": null,
+        "root": {
+          "form": "ck",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "hey",
+          "gloss": "AUG",
+          "meaning": "augmentative — large/great"
+        },
+        "gloss": "???-AUG",
+        "ipaclass": ""
+      },
+      {
+        "word": "ain",
+        "prefix": null,
+        "root": {
+          "form": "ain",
+          "gloss": "RES",
+          "meaning": "resultative — completed action"
+        },
+        "suffix": null,
+        "gloss": "RES",
+        "ipaclass": ""
+      },
+      {
+        "word": "ol",
+        "prefix": null,
+        "root": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "suffix": null,
+        "gloss": "PL",
+        "ipaclass": ""
+      },
+      {
+        "word": "ol,sheedy",
+        "prefix": {
+          "form": "ol",
+          "gloss": "PL",
+          "meaning": "plural/collective"
+        },
+        "root": {
+          "form": ",she",
+          "gloss": "???",
+          "meaning": "[unknown]"
+        },
+        "suffix": {
+          "form": "edy",
+          "gloss": "?",
+          "meaning": "?"
+        },
+        "gloss": "PL-???-?",
+        "ipaclass": ""
+      },
+      {
+        "word": "qokeey",
+        "prefix": {
+          "form": "qok",
+          "gloss": "FUT",
+          "meaning": "future/irrealis verb mode"
+        },
+        "root": {
+          "form": "eey",
+          "gloss": "INTS",
+          "meaning": "intensive — much/greatly"
+        },
+        "suffix": null,
+        "gloss": "FUT-INTS",
+        "ipaclass": ""
+      }
+    ]
+  }
+}

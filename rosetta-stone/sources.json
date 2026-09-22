@@ -1,0 +1,8 @@
+{
+  "voynich_text": "RF1b-e.txt, IVTFF 2.0 format, Beinecke Library, Yale University",
+  "transliteration": "European Voynich Alphabet (EVA), Zandbergen/Landini",
+  "corpus_comparison": "Project Gutenberg, Wikipedia, Archive.org",
+  "cross_languages": 151,
+  "methods": "cosine similarity, PMI boundary detection, distributional semantics",
+  "analysis_tools": "root-structure.py, semantic-mapper.py, cross-language.py, freq-analysis.py"
+}

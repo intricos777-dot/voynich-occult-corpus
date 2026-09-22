@@ -1,0 +1,48 @@
+morpheme,pos,gloss,meaning,example,confidence
+ai,root,STAR,star/light/sky,aiin (starlight),HIGH
+ain,suffix,RES,resultative — completed action,chotain (finished),MEDIUM
+al,suffix,ADJ,adjectivizer — quality/state,sheyal (plant-like),HIGH
+am,suffix,IMP,imperative — command,daiam! (live!),HIGH
+ar,suffix,ABL,from/origin (ablative),sholar (from leaf),HIGH
+ch,prefix,ANIMATE,human/animal/agent,chol (hand/action),HIGH
+chdy,root,ROOT,root/below/under,chdy.shol (root leaf),HIGH
+che,prefix,ACT,action/verb marker,chey (do/make),HIGH
+cho,prefix,BODY,body part/extremity,chol (hand/arm),MEDIUM
+chol,root,FIRE,fire/burn/heat,chol.daiin (fire being),MEDIUM
+chol_h,root,HAND,hand/grasp/action,chol.shey (hand plant),MEDIUM
+chor,root,CIRCLE,circle/orbit/revolution,chor.daiin (orbital being),MEDIUM
+chot,root,END,finish/end/complete,chot.daiin (finished being),MEDIUM
+chy,suffix,DIM,diminutive — small/little,sheychy (small plant),HIGH
+da,prefix,EXIST,existential/being/state,daiin (living being),HIGH
+dai,root,LIVE,life/breath/alive,daiin (living being),HIGH
+dal,root,SEED,seed/kernel/source,dal.shey (seed plant),LOW
+dy,suffix,LOC,at/in/on (locative),sholdy (at the leaf),HIGH
+eey,suffix,INTS,intensive — much/greatly,okeey (much water),HIGH
+ey,suffix,ACC,direct object (accusative),shey.ey (plant [obj]),HIGH
+hey,suffix,AUG,augmentative — large/great,sheyhey (large plant),HIGH
+hy,suffix,COM,with/accompaniment (comitative),daihy (with life),HIGH
+iin,suffix,GEN,of/possession (genitive),daiin (of life),HIGH
+in,suffix,DAT,to/for (dative),daiin (to life),HIGH
+kor,root,CORE,core/center/heart,kor.daiin (core being),LOW
+ky,root,SELF,self/own/personal,ky.daiin (oneself),LOW
+ody,suffix,DUR,durative — ongoing/continuous,chody (burning),HIGH
+ok,prefix,DIR,directional/locative,okaiin (toward-place),MEDIUM
+oke,prefix,WATER,water/liquid/fluid,okeey (water-pure),HIGH
+okee,root,WATER,water/liquid/drink,okeey (drinking water),HIGH
+ol,prefix,PL,plural/collective,olchaiin (many-stars),HIGH
+ol_s,suffix,INS,by/with means (instrumental),cholol (by fire),MEDIUM
+op,prefix,NEG,negation/not,opchaiin (not-living),LOW
+or,suffix,ERG,ergative — agent/subject,chor (by the circle),MEDIUM
+ot,prefix,INSTR,instrument/tool/vessel,otchal (vessel-hand),MEDIUM
+ote,prefix,FIRE,fire/heat/thermal,oteey (fire-flow),HIGH
+otee,root,FLOW,flow/move/pour,oteey (flowing),HIGH
+qo,prefix,CELESTIAL,sky/star/abstract/spatial,qokaiin (star-place),HIGH
+qok,prefix,FUT,future/irrealis verb mode,qokchor (will circle),MEDIUM
+qot,prefix,SKY,celestial/sky-moon,qoteey (sky-fire),HIGH
+sh,prefix,PLANT,plant/natural/organic,shey (plant/green),HIGH
+she,prefix,LEAF,plant-specific/leaf/blade,shey (leaf/grow),HIGH
+shey,root,PLANT,plant/grow/green,shey.daiin (growing thing),HIGH
+shod,root,EARTH,earth/ground/soil,shod.daiin (earth being),HIGH
+shol,root,LEAF,leaf/covering/surface/head,shol.daiin (leaf being),MEDIUM
+soi,root,SLEEP,sleep/rest/silence,soiin (sleeping),MEDIUM
+yk,prefix,PAST,past tense,ykaiin (was),MEDIUM

@@ -1,0 +1,331 @@
+{
+  "ch": {
+    "pos": "prefix",
+    "gloss": "ANIMATE",
+    "meaning": "human/animal/agent",
+    "example": "chol (hand/action)",
+    "confidence": "HIGH"
+  },
+  "qo": {
+    "pos": "prefix",
+    "gloss": "CELESTIAL",
+    "meaning": "sky/star/abstract/spatial",
+    "example": "qokaiin (star-place)",
+    "confidence": "HIGH"
+  },
+  "qok": {
+    "pos": "prefix",
+    "gloss": "FUT",
+    "meaning": "future/irrealis verb mode",
+    "example": "qokchor (will circle)",
+    "confidence": "MEDIUM"
+  },
+  "sh": {
+    "pos": "prefix",
+    "gloss": "PLANT",
+    "meaning": "plant/natural/organic",
+    "example": "shey (plant/green)",
+    "confidence": "HIGH"
+  },
+  "ot": {
+    "pos": "prefix",
+    "gloss": "INSTR",
+    "meaning": "instrument/tool/vessel",
+    "example": "otchal (vessel-hand)",
+    "confidence": "MEDIUM"
+  },
+  "che": {
+    "pos": "prefix",
+    "gloss": "ACT",
+    "meaning": "action/verb marker",
+    "example": "chey (do/make)",
+    "confidence": "HIGH"
+  },
+  "ok": {
+    "pos": "prefix",
+    "gloss": "DIR",
+    "meaning": "directional/locative",
+    "example": "okaiin (toward-place)",
+    "confidence": "MEDIUM"
+  },
+  "she": {
+    "pos": "prefix",
+    "gloss": "LEAF",
+    "meaning": "plant-specific/leaf/blade",
+    "example": "shey (leaf/grow)",
+    "confidence": "HIGH"
+  },
+  "da": {
+    "pos": "prefix",
+    "gloss": "EXIST",
+    "meaning": "existential/being/state",
+    "example": "daiin (living being)",
+    "confidence": "HIGH"
+  },
+  "qot": {
+    "pos": "prefix",
+    "gloss": "SKY",
+    "meaning": "celestial/sky-moon",
+    "example": "qoteey (sky-fire)",
+    "confidence": "HIGH"
+  },
+  "ol": {
+    "pos": "prefix",
+    "gloss": "PL",
+    "meaning": "plural/collective",
+    "example": "olchaiin (many-stars)",
+    "confidence": "HIGH"
+  },
+  "oke": {
+    "pos": "prefix",
+    "gloss": "WATER",
+    "meaning": "water/liquid/fluid",
+    "example": "okeey (water-pure)",
+    "confidence": "HIGH"
+  },
+  "cho": {
+    "pos": "prefix",
+    "gloss": "BODY",
+    "meaning": "body part/extremity",
+    "example": "chol (hand/arm)",
+    "confidence": "MEDIUM"
+  },
+  "ote": {
+    "pos": "prefix",
+    "gloss": "FIRE",
+    "meaning": "fire/heat/thermal",
+    "example": "oteey (fire-flow)",
+    "confidence": "HIGH"
+  },
+  "yk": {
+    "pos": "prefix",
+    "gloss": "PAST",
+    "meaning": "past tense",
+    "example": "ykaiin (was)",
+    "confidence": "MEDIUM"
+  },
+  "op": {
+    "pos": "prefix",
+    "gloss": "NEG",
+    "meaning": "negation/not",
+    "example": "opchaiin (not-living)",
+    "confidence": "LOW"
+  },
+  "dai": {
+    "pos": "root",
+    "gloss": "LIVE",
+    "meaning": "life/breath/alive",
+    "example": "daiin (living being)",
+    "confidence": "HIGH"
+  },
+  "ai": {
+    "pos": "root",
+    "gloss": "STAR",
+    "meaning": "star/light/sky",
+    "example": "aiin (starlight)",
+    "confidence": "HIGH"
+  },
+  "chor": {
+    "pos": "root",
+    "gloss": "CIRCLE",
+    "meaning": "circle/orbit/revolution",
+    "example": "chor.daiin (orbital being)",
+    "confidence": "MEDIUM"
+  },
+  "shey": {
+    "pos": "root",
+    "gloss": "PLANT",
+    "meaning": "plant/grow/green",
+    "example": "shey.daiin (growing thing)",
+    "confidence": "HIGH"
+  },
+  "chol": {
+    "pos": "root",
+    "gloss": "FIRE",
+    "meaning": "fire/burn/heat",
+    "example": "chol.daiin (fire being)",
+    "confidence": "MEDIUM"
+  },
+  "chol_h": {
+    "pos": "root",
+    "gloss": "HAND",
+    "meaning": "hand/grasp/action",
+    "example": "chol.shey (hand plant)",
+    "confidence": "MEDIUM"
+  },
+  "shol": {
+    "pos": "root",
+    "gloss": "LEAF",
+    "meaning": "leaf/covering/surface/head",
+    "example": "shol.daiin (leaf being)",
+    "confidence": "MEDIUM"
+  },
+  "otee": {
+    "pos": "root",
+    "gloss": "FLOW",
+    "meaning": "flow/move/pour",
+    "example": "oteey (flowing)",
+    "confidence": "HIGH"
+  },
+  "okee": {
+    "pos": "root",
+    "gloss": "WATER",
+    "meaning": "water/liquid/drink",
+    "example": "okeey (drinking water)",
+    "confidence": "HIGH"
+  },
+  "chdy": {
+    "pos": "root",
+    "gloss": "ROOT",
+    "meaning": "root/below/under",
+    "example": "chdy.shol (root leaf)",
+    "confidence": "HIGH"
+  },
+  "shod": {
+    "pos": "root",
+    "gloss": "EARTH",
+    "meaning": "earth/ground/soil",
+    "example": "shod.daiin (earth being)",
+    "confidence": "HIGH"
+  },
+  "chot": {
+    "pos": "root",
+    "gloss": "END",
+    "meaning": "finish/end/complete",
+    "example": "chot.daiin (finished being)",
+    "confidence": "MEDIUM"
+  },
+  "soi": {
+    "pos": "root",
+    "gloss": "SLEEP",
+    "meaning": "sleep/rest/silence",
+    "example": "soiin (sleeping)",
+    "confidence": "MEDIUM"
+  },
+  "ky": {
+    "pos": "root",
+    "gloss": "SELF",
+    "meaning": "self/own/personal",
+    "example": "ky.daiin (oneself)",
+    "confidence": "LOW"
+  },
+  "kor": {
+    "pos": "root",
+    "gloss": "CORE",
+    "meaning": "core/center/heart",
+    "example": "kor.daiin (core being)",
+    "confidence": "LOW"
+  },
+  "dal": {
+    "pos": "root",
+    "gloss": "SEED",
+    "meaning": "seed/kernel/source",
+    "example": "dal.shey (seed plant)",
+    "confidence": "LOW"
+  },
+  "in": {
+    "pos": "suffix",
+    "gloss": "DAT",
+    "meaning": "to/for (dative)",
+    "example": "daiin (to life)",
+    "confidence": "HIGH"
+  },
+  "dy": {
+    "pos": "suffix",
+    "gloss": "LOC",
+    "meaning": "at/in/on (locative)",
+    "example": "sholdy (at the leaf)",
+    "confidence": "HIGH"
+  },
+  "ey": {
+    "pos": "suffix",
+    "gloss": "ACC",
+    "meaning": "direct object (accusative)",
+    "example": "shey.ey (plant [obj])",
+    "confidence": "HIGH"
+  },
+  "iin": {
+    "pos": "suffix",
+    "gloss": "GEN",
+    "meaning": "of/possession (genitive)",
+    "example": "daiin (of life)",
+    "confidence": "HIGH"
+  },
+  "ar": {
+    "pos": "suffix",
+    "gloss": "ABL",
+    "meaning": "from/origin (ablative)",
+    "example": "sholar (from leaf)",
+    "confidence": "HIGH"
+  },
+  "ol_s": {
+    "pos": "suffix",
+    "gloss": "INS",
+    "meaning": "by/with means (instrumental)",
+    "example": "cholol (by fire)",
+    "confidence": "MEDIUM"
+  },
+  "hy": {
+    "pos": "suffix",
+    "gloss": "COM",
+    "meaning": "with/accompaniment (comitative)",
+    "example": "daihy (with life)",
+    "confidence": "HIGH"
+  },
+  "al": {
+    "pos": "suffix",
+    "gloss": "ADJ",
+    "meaning": "adjectivizer — quality/state",
+    "example": "sheyal (plant-like)",
+    "confidence": "HIGH"
+  },
+  "eey": {
+    "pos": "suffix",
+    "gloss": "INTS",
+    "meaning": "intensive — much/greatly",
+    "example": "okeey (much water)",
+    "confidence": "HIGH"
+  },
+  "chy": {
+    "pos": "suffix",
+    "gloss": "DIM",
+    "meaning": "diminutive — small/little",
+    "example": "sheychy (small plant)",
+    "confidence": "HIGH"
+  },
+  "hey": {
+    "pos": "suffix",
+    "gloss": "AUG",
+    "meaning": "augmentative — large/great",
+    "example": "sheyhey (large plant)",
+    "confidence": "HIGH"
+  },
+  "am": {
+    "pos": "suffix",
+    "gloss": "IMP",
+    "meaning": "imperative — command",
+    "example": "daiam! (live!)",
+    "confidence": "HIGH"
+  },
+  "ody": {
+    "pos": "suffix",
+    "gloss": "DUR",
+    "meaning": "durative — ongoing/continuous",
+    "example": "chody (burning)",
+    "confidence": "HIGH"
+  },
+  "ain": {
+    "pos": "suffix",
+    "gloss": "RES",
+    "meaning": "resultative — completed action",
+    "example": "chotain (finished)",
+    "confidence": "MEDIUM"
+  },
+  "or": {
+    "pos": "suffix",
+    "gloss": "ERG",
+    "meaning": "ergative — agent/subject",
+    "example": "chor (by the circle)",
+    "confidence": "MEDIUM"
+  }
+}
